@@ -1,0 +1,105 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Utility Trailer",
+  "type": "Bumper Pull",
+  "name": "UTILITY TRAILER 83\u201d HORIZON",
+  "models_and_prices": {
+    "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "",
+      "price": "UTZ 24' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles"
+    },
+    "UTZ 16' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "",
+      "price": "UTZ 18' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles"
+    },
+    "UTZ 18' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "UTZ 20' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles",
+      "price": "5,271.50"
+    },
+    "UTZ 20' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
+      "msrp": "",
+      "price": ""
+    },
+    "UTZ 20' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "5,382.00",
+      "price": "4,140.00"
+    },
+    "UTZ 22' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "5,752.50",
+      "price": "4,425.00"
+    },
+    "UTZ 24' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
+      "msrp": "5,967.00",
+      "price": "4,590.00"
+    }
+  },
+  "options": {
+    "deck": {},
+    "tongue": {},
+    "running_gear": {},
+    "electrical_and_lighting": {},
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "PAINT:"
+    },
+    "tongue": {
+      "jack": "JACK:",
+      "safety_chains": "SAFETY CHAINS:",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "COUPLER:",
+      "length": "",
+      "spare": "SPARE:",
+      "type": ""
+    },
+    "running_gear": {
+      "suspension": "",
+      "rims": "AXLES:",
+      "tires": "TIRES:",
+      "axles": "SUSPENSION:"
+    },
+    "electrical_and_lighting": {
+      "lights": "LIGHTS:"
+    },
+    "weight_ratings": {
+      "gvwr": ""
+    },
+    "chassis": {
+      "main_frame": "MAIN FRAME:"
+    },
+    "deck": {
+      "ramps": "RAMPS:",
+      "crossmembers": "CROSSMEMBERS:",
+      "deck_width": "DECK WIDTH:",
+      "sides": "",
+      "flooring": "FLOORING:",
+      "width_between_fenders": "WIDTH BETWEEN FENDERS:",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}

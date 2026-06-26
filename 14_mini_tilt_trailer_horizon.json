@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Tilt Trailer",
+  "type": "Full Tilt",
+  "name": "MINI TILT TRAILER HORIZON",
+  "models_and_prices": {
+    "MTZ 12' x 79\" x 15\" BP EQUIPMENT TILT TRAILER": {
+      "msrp": "",
+      "price": ""
+    }
+  },
+  "options": {
+    "deck": {},
+    "tongue": {
+      "MTZ-213": {
+        "option": "Mega Lockable Toolbox",
+        "price": "240"
+      }
+    },
+    "running_gear": {
+      "501-020": {
+        "option": "2 - ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
+        "price": "85"
+      },
+      "501-021": {
+        "option": "",
+        "price": "370"
+      },
+      "501-022": {
+        "option": "2 - Aluminum Rims w/ ST235/85R16 14 Ply Tires (4,400 lbs)",
+        "price": "455"
+      },
+      "501-103": {
+        "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
+        "price": "140"
+      },
+      "501-104": {
+        "option": "ST235/85R16 14 Ply Tire Single (4,400 lbs)",
+        "price": "185"
+      },
+      "501-105": {
+        "option": "",
+        "price": "325"
+      },
+      "501-106": {
+        "option": "Aluminum Rims w/ ST235/85R16 14 Ply Tire (4,400 lbs)",
+        "price": "370"
+      }
+    },
+    "electrical_and_lighting": {},
+    "finish": {
+      "MTZ-815": {
+        "option": "",
+        "price": "525"
+      }
+    },
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "6 Stage Powdercoat"
+    },
+    "tongue": {
+      "jack": "",
+      "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "",
+      "length": "60",
+      "spare": "Weld On Spare Tire Mount",
+      "type": ""
+    },
+    "running_gear": {
+      "suspension": "Torsion",
+      "rims": "16\" Black Mod Wheels",
+      "tires": "ST235/80R16 10 Ply Tires Single (3,520 lbs)",
+      "axles": "1 - 7k Electric Brake EZ Lube Torsion Axles"
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": ""
+    },
+    "chassis": {
+      "main_frame": "5\" Channel (6.70 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 12\" Spacing",
+      "deck_width": "79",
+      "sides": "",
+      "flooring": "12ga. Diamond Plate Steel Deck",
+      "width_between_fenders": "",
+      "fenders": "14ga. Diamond Plate Steel Fenders",
+      "type": ""
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Roll Off Trailer",
+  "type": "Roll Off",
+  "name": "WEIGHT OF THE TRAILER AND ROLL OFF UNIT TO DETERMINE ACTUAL PAYLOAD:,WEIGHT OF THE TRAILER AND ROLL OFF UNIT TO DETERMINE ACTUAL PAYLOAD:",
+  "models_and_prices": {},
+  "options": {
+    "deck": {},
+    "tongue": {},
+    "running_gear": {},
+    "electrical_and_lighting": {
+      "HRD-305": {
+        "option": "2- Cargo Lights Mounted On Riser",
+        "price": "420"
+      },
+      "HRD-805": {
+        "option": "14ft Zinc Primer Undercoat 14ft Zinc Primer Undercoat",
+        "price": "525"
+      },
+      "HRD-806": {
+        "option": "",
+        "price": ""
+      },
+      "HRD-815": {
+        "option": "20ft & Up Zinc Primer Undercoat 20ft & Up Zinc Primer Undercoat",
+        "price": "1,050"
+      }
+    },
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "PAINT:"
+    },
+    "tongue": {
+      "jack": "",
+      "safety_chains": "",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "",
+      "length": "",
+      "spare": "",
+      "type": ""
+    },
+    "running_gear": {
+      "suspension": "SUSPENSION:",
+      "rims": "RIMS:",
+      "tires": "TIRES:",
+      "axles": "AXLES:"
+    },
+    "electrical_and_lighting": {
+      "lights": "LIGHTS:"
+    },
+    "weight_ratings": {
+      "gvwr": ""
+    },
+    "chassis": {
+      "main_frame": "MAIN FRAME:"
+    },
+    "deck": {
+      "ramps": "",
+      "crossmembers": "CROSSMEMBERS:",
+      "deck_width": "",
+      "sides": "SIDES:",
+      "flooring": "",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}

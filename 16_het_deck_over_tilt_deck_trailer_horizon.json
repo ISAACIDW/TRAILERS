@@ -1,0 +1,81 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Tilt Trailer",
+  "type": "Full Tilt",
+  "name": "HET DECK OVER TILT DECK TRAILER HORIZON",
+  "models_and_prices": {
+    "HET 20' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HET 22' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HET 24' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
+      "msrp": "HET 24' x 82\" x 25\" GN EQUIPMENT TILT TRAILER",
+      "price": ""
+    },
+    "HET 24' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HET 26' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
+      "msrp": "HET 26' x 82\" x 25\" GN EQUIPMENT TILT TRAILER",
+      "price": ""
+    },
+    "HET 26' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
+      "msrp": "",
+      "price": ""
+    }
+  },
+  "options": {
+    "deck": {},
+    "tongue": {},
+    "running_gear": {},
+    "electrical_and_lighting": {},
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "6 Stage Powdercoat"
+    },
+    "tongue": {
+      "jack": "1 Side Wind Spring Loaded Drop Jack Leg (12,000 lbs)",
+      "safety_chains": "3/8\" Grade 70 Safety Chain w/ Clevis Hook (2 each)",
+      "winch_plate": "Winch Plate Behind Neck",
+      "storage": "",
+      "coupler": "Adjustable Auto Latch 2-5/16\" Bp Coupler (21,000 lbs)",
+      "length": "",
+      "spare": "Weld On Spare Tire Mount",
+      "type": "Neckboss 10\" Tapered Engineered I-Beam"
+    },
+    "running_gear": {
+      "suspension": "Torsion",
+      "rims": "17.5\" Black Mod Wheels",
+      "tires": "ST235/75R17.5 18 Ply Tires Super Single (6,005 lbs)",
+      "axles": "2 - 10k Electric Brake Super Single Oil Bath Torsion Axles"
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": "21,000 lbs"
+    },
+    "chassis": {
+      "main_frame": "10\" I-Beam (17 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+      "deck_width": "82",
+      "sides": "1,5/8\" x 3,5/8\" (ID) Stake Pockets (Spaced At 24\")",
+      "flooring": "Pine Lumber Floor",
+      "width_between_fenders": "82",
+      "fenders": "12ga. Removable Diamond Plate Steel Fenders",
+      "type": ""
+    }
+  }
+}

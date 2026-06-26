@@ -1,0 +1,134 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Dump Trailer",
+  "type": "Bumper Pull",
+  "name": "\"HORIZON 5 FT WIDE, DUMP TRAILER\"",
+  "models_and_prices": {
+    "HZ5 8' x 60\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": "............................................................................................................................................."
+    },
+    "HZ5 10' x 60\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": "............................................................................................................................................"
+    }
+  },
+  "options": {
+    "deck": {
+      "HZ5-524": {
+        "option": "",
+        "price": "11"
+      },
+      "HZ5-518": {
+        "option": "",
+        "price": "42"
+      },
+      "HZ5-519": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "tongue": {},
+    "running_gear": {
+      "501-000": {
+        "option": "",
+        "price": ""
+      },
+      "HZ5-A01": {
+        "option": "",
+        "price": "265"
+      },
+      "HZ5-A02": {
+        "option": "",
+        "price": "525"
+      },
+      "501-002": {
+        "option": "ST205/75R15 8 Ply Tires (2,150 lbs)",
+        "price": ""
+      },
+      "501-003": {
+        "option": "",
+        "price": "130"
+      },
+      "501-022": {
+        "option": "ST225/75R15 10 Ply Tire (2,830 lbs)",
+        "price": ""
+      }
+    },
+    "electrical_and_lighting": {
+      "505-001": {
+        "option": "7.5 Watt Solar Panel",
+        "price": "370"
+      }
+    },
+    "finish": {
+      "HZ5-803": {
+        "option": "",
+        "price": "250"
+      },
+      "HZ5-801": {
+        "option": "Zinc Primer Undercoat",
+        "price": "525"
+      }
+    },
+    "lift_system": {
+      "509-005": {
+        "option": "",
+        "price": "545"
+      },
+      "HZ5-525": {
+        "option": "",
+        "price": ""
+      },
+      "HZ5-522": {
+        "option": "",
+        "price": "475"
+      },
+      "HZ5-523": {
+        "option": "",
+        "price": "475"
+      }
+    }
+  },
+  "specifications": {
+    "finish": {
+      "paint": "6 Stage Powdercoat"
+    },
+    "tongue": {
+      "jack": "1 Side Wind Drop Jack Leg (7000 lbs)",
+      "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "Adjustable Auto Latch 2,5/16\" BP Coupler (17,000 lbs)",
+      "length": "",
+      "spare": "Weld On Spare Tire Mount",
+      "type": "6\" I-Beam (8.5 lbs/ft)"
+    },
+    "running_gear": {
+      "suspension": "",
+      "rims": "15\" Black Mod Wheels",
+      "tires": "ST205/75R15 8 Ply Tires (2,150 lbs)",
+      "axles": "(1 Axle 8 ft Dump) 3.5k Electric Brake EZ Lube Spring Axle"
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": "3,800 lbs (8' Dump 1 Axle)"
+    },
+    "chassis": {
+      "main_frame": "6\" I-Beam (8.5 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "Ramp Pockets w/ 5' Long Slide In 3\" Channel Ramps",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+      "deck_width": "60",
+      "sides": "18\" High, 12ga Rounded Steel",
+      "flooring": "9ga. Steel Bed",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}

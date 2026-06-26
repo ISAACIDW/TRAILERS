@@ -1,0 +1,81 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Dump Trailer",
+  "type": "Bumper Pull",
+  "name": "\"HORIZON 7FT WIDE, DUMP TRAILER\"",
+  "models_and_prices": {
+    "HZ7 12' x 83\" GN DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HZ7 12' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HZ7 14' x 83\" GN DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HZ7 14' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HZ7 16' x 83\" GN DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "HZ7 16' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": ""
+    }
+  },
+  "options": {
+    "deck": {},
+    "tongue": {},
+    "running_gear": {},
+    "electrical_and_lighting": {},
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "PAINT:"
+    },
+    "tongue": {
+      "jack": "1 Side Wind Spring Loaded Drop Jack Leg (12,000 lbs)",
+      "safety_chains": "3/8\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "",
+      "length": "",
+      "spare": "Weld On Spare Tire Mount",
+      "type": "Neckboss 8\" Tapered Engineered I-Beam"
+    },
+    "running_gear": {
+      "suspension": "Spring",
+      "rims": "16\" Black Mod Wheels",
+      "tires": "ST235/80R16 10 Ply Tires Single (3,520 lbs)",
+      "axles": "2 - 7k Electric Brake EZ Lube Spring Axles"
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": "15,200 lbs"
+    },
+    "chassis": {
+      "main_frame": "8\" I-Beam (13 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "Ramp Pockets w/ 6' 4\" Long Heavy Duty Slide In 4\" Channel Ramps",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+      "deck_width": "83",
+      "sides": "2' High, 10ga. Rounded Steel",
+      "flooring": "7ga. Steel Bed",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}

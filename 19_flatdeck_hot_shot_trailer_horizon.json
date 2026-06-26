@@ -1,0 +1,161 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Flatbed Trailer",
+  "type": "Hot Shot",
+  "name": "FLATDECK HOT SHOT TRAILER HORIZON",
+  "models_and_prices": {
+    "FHZ 20' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "13,188.50",
+      "price": ""
+    },
+    "FHZ 20' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "13,624.00",
+      "price": ""
+    },
+    "FHZ 22' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 22' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 24' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "14,820.00",
+      "price": ""
+    },
+    "FHZ 24' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "14,319.50",
+      "price": ""
+    },
+    "FHZ 26' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 26' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 28' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 28' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 30' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 30' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 32' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 32' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 34' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 34' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 36' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 36' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 38' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 38' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 40' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 40' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 42' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 42' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 44' x 102\" x 34\" GN FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "FHZ 44' x 102\" x 34\" PH FLATDECK TRAILER": {
+      "msrp": "",
+      "price": ""
+    }
+  },
+  "options": {
+    "deck": {},
+    "tongue": {},
+    "running_gear": {},
+    "electrical_and_lighting": {},
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "6 Stage Powdercoat"
+    },
+    "tongue": {
+      "jack": "",
+      "safety_chains": "3/8\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "Pintle Ring (42,000 lbs)",
+      "length": "",
+      "spare": "Weld On Spare Tire Mount",
+      "type": "Neckboss 12\" Tapered Engineered I-Beam"
+    },
+    "running_gear": {
+      "suspension": "Spring",
+      "rims": "16\" Black Mod Wheels",
+      "tires": "ST235/80R16 10 Ply Tires Dual (3,080 lbs)",
+      "axles": "2 - 10k Electric Brake Dual Oil Bath Spring Axles"
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": "25,000 lbs"
+    },
+    "chassis": {
+      "main_frame": "Bridged 12\" I-Beam (19 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "Ramp Pockets w/ 8' Long Heavy Duty Slide In 4\" Channel Ramps",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+      "deck_width": "",
+      "sides": "1,5/8\" x 3,5/8\" (ID) Stake Pockets (Spaced At 24\")",
+      "flooring": "Pine Lumber Floor",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}

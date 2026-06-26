@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "model_id": "",
+  "category": "Dump Trailer",
+  "type": "Bumper Pull",
+  "name": "\"ECONOMIC HORIZON 7FT WIDE, DUMP TRAILER\"",
+  "models_and_prices": {
+    "EZ7 12' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": "......................................................................................................................................................................."
+    },
+    "EZ7 14' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": "......................................................................................................................................................................."
+    },
+    "EZ7 16' x 83\" BP DUMP TRAILER": {
+      "msrp": "",
+      "price": "......................................................................................................................................................................."
+    }
+  },
+  "options": {
+    "deck": {
+      "506-013": {
+        "option": "8\" Extensions Boards",
+        "price": "13"
+      },
+      "EZ7-507": {
+        "option": "",
+        "price": "85"
+      },
+      "EZ7-505": {
+        "option": "",
+        "price": "125"
+      }
+    },
+    "tongue": {
+      "EZ7-105": {
+        "option": "",
+        "price": "735"
+      }
+    },
+    "running_gear": {
+      "501-004": {
+        "option": "ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
+        "price": "170"
+      },
+      "501-005": {
+        "option": "",
+        "price": "140"
+      },
+      "501-006": {
+        "option": "ST235/85R16 14 Ply Tire Single (4,400 lbs)",
+        "price": "185"
+      }
+    },
+    "electrical_and_lighting": {},
+    "finish": {},
+    "lift_system": {}
+  },
+  "specifications": {
+    "finish": {
+      "paint": "6 Stage Powdercoat"
+    },
+    "tongue": {
+      "jack": "1 Side Wind Spring Loaded Drop Jack Leg (12,000 lbs)",
+      "safety_chains": "",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "Adjustable Auto Latch 2,5/16\" BP Coupler (17,000 lbs)",
+      "length": "",
+      "spare": "Weld On Spare Tire Mount",
+      "type": ""
+    },
+    "running_gear": {
+      "suspension": "Spring",
+      "rims": "16\" Black Mod Wheels",
+      "tires": "ST235/80R16 10 Ply Tires Single (3,520 lbs)",
+      "axles": ""
+    },
+    "electrical_and_lighting": {
+      "lights": "DOT Approved Tecniq LED Lights"
+    },
+    "weight_ratings": {
+      "gvwr": "14,000 lbs"
+    },
+    "chassis": {
+      "main_frame": "8\" I-Beam (13 lbs/ft)"
+    },
+    "deck": {
+      "ramps": "Ramp Pockets w/ 6' 4\" Long Slide In 3\" Channel Ramps",
+      "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+      "deck_width": "83",
+      "sides": "19\" High, 12ga Rounded Steel",
+      "flooring": "9ga. Steel Bed",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}
