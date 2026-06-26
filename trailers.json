@@ -71,7 +71,7 @@
       "running_gear": {
         "501-004": {
           "option": "ST225/75R15 10 Ply Tires (2,830 lbs)",
-          "price": "170"
+          "price": "105"
         },
         "501-022": {
           "option": "ST225/75R15 10 Ply Tire (2,830 lbs)",
@@ -940,7 +940,7 @@
         },
         "501-008": {
           "option": "ST235/75R17.5 18 Ply Tire Super Single (6,005 lbs)",
-          "price": "295"
+          "price": "245"
         },
         "501-005": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -1038,12 +1038,12 @@
     "id": "EDZ",
     "models_and_prices": {
       "EDZ 14' x 83\" (BED RAIL 60\") ROLL OFF DUMPSTER . . ..": {
-        "msrp": "4,862.00",
-        "price": "3,740.00"
+        "msrp": "12,168.00",
+        "price": "9,360.00"
       },
       "EDZ 16' x 83\" (BED RAIL 60\") ROLL OFF DUMPSTER": {
-        "msrp": "5,187.00",
-        "price": "3,990.00"
+        "msrp": "4,862.00",
+        "price": "3,740.00"
       }
     },
     "options": {
@@ -1250,7 +1250,7 @@
         },
         "501-008": {
           "option": "ST235/75R17.5 18 Ply Tire Super Single (6,005 lbs)",
-          "price": "295"
+          "price": "245"
         },
         "501-005": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -1338,16 +1338,16 @@
     "id": "ETZ",
     "models_and_prices": {
       "ETZ 24' x 83\" x 22\" GN EQUIPMENT TILT T R A I L E R": {
-        "msrp": "9,711.00",
-        "price": "7,470.00"
+        "msrp": "11,804.00",
+        "price": "9,080.00"
       },
       "ETZ 26' x 83\" x 22\" GN EQUIPMENT TILT T R A IL E R": {
-        "msrp": "10,029.50",
-        "price": "7,715.00"
+        "msrp": "12,148.50",
+        "price": "9,345.00"
       },
       "ETZ 22' x 83\" x 22\" GN EQUIPMENT TILT T R A IL E R": {
-        "msrp": "9,379.50",
-        "price": "7,215.00"
+        "msrp": "11,563.50",
+        "price": "8,895.00"
       }
     },
     "options": {
@@ -1594,39 +1594,39 @@
     "models_and_prices": {
       "EWZ 34' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "13,565.50",
-        "price": "13,565.50"
+        "price": "10,435.00"
       },
       "EWZ 32' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "13,260.00",
-        "price": "13,260.00"
+        "price": "10,200.00"
       },
       "EWZ 36' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "14,014.00",
-        "price": "14,014.00"
+        "price": "10,780.00"
       },
       "EWZ 30' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "12,831.00",
-        "price": "12,831.00"
+        "price": "9,870.00"
       },
       "EWZ 44' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "15,502.50",
-        "price": "15,502.50"
+        "price": "11,925.00"
       },
       "EWZ 40' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "14,748.50",
-        "price": "14,748.50"
+        "price": "11,345.00"
       },
       "EWZ 42' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "15,190.50",
-        "price": "15,190.50"
+        "price": "11,685.00"
       },
       "EWZ 28' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "10,809.50",
-        "price": "11,947.00"
+        "price": "8,315.00"
       },
       "EWZ 38' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "14,443.00",
-        "price": "14,443.00"
+        "price": "11,110.00"
       }
     },
     "options": {
@@ -1899,11 +1899,11 @@
       },
       "EZ7 16' x 83\" BP DUMP TRAILER": {
         "msrp": "11,069.50",
-        "price": "10,146.50"
+        "price": "11,069.50"
       },
       "EZ7 14' x 83\" BP DUMP TRAILER": {
         "msrp": "10,445.50",
-        "price": "10,146.50"
+        "price": "10,445.50"
       }
     },
     "options": {
@@ -3274,8 +3274,8 @@
         "price": "19,860.00"
       },
       "FHS 28' x 102\" x 38\" GN PARTIAL TILT FLATDECK TRAILER": {
-        "msrp": "22,919.00",
-        "price": "17,630.00"
+        "msrp": "22,594.00",
+        "price": "17,380.00"
       },
       "FHS 40' x 102\" x 38\" GN PARTIAL TILT FLATDECK TRAILER": {
         "msrp": "25,798.50",
@@ -3310,8 +3310,8 @@
         "price": "18,020.00"
       },
       "FHS 28' x 102\" x 38\" PH PARTIAL TILT FLATDECK TRAILE R": {
-        "msrp": "22,594.00",
-        "price": "17,380.00"
+        "msrp": "22,919.00",
+        "price": "17,630.00"
       },
       "FHS 30' x 102\" x 38\" PH PARTIAL TILT FLATDECK TRAILER": {
         "msrp": "23,094.50",
@@ -4920,19 +4920,19 @@
       "lift_system": {
         "504-016": {
           "option": "504-015 17.5k Synthetic Rope Winchmax Winch",
-          "price": "2,180"
+          "price": "2,260"
         },
         "504-013": {
           "option": "504-012 13.5k Steel Cable Winchmax Winch",
-          "price": "1,575"
+          "price": "1,365"
         },
         "504-015": {
           "option": "504-014 17.5k Steel Cable Winchmax Winch",
-          "price": "2,260"
+          "price": "1,735"
         },
         "504-014": {
           "option": "504-013 13.5k Synthetic Rope Winchmax Winch",
-          "price": "1,735"
+          "price": "1,575"
         },
         "509-016": {
           "option": "Tuff Wireless 2 Button Remote (Hydraulic Jacks)",
@@ -5074,8 +5074,8 @@
         "msrp": "13,936.00"
       },
       "FHZ_SS 40' x 102\" x 34\" PH FLATDECK TRAILER SUPER SINGLE": {
-        "price": "13,475.00",
-        "msrp": "17,517.50"
+        "price": "14,250.00",
+        "msrp": "18,525.00"
       },
       "FHZ_SS 24' x 102\" x 34\" GN FLATDECK TRAILER SUPER SINGLE": {
         "price": "11,400.00",
@@ -5110,8 +5110,8 @@
         "msrp": "15,008.50"
       },
       "FHZ_SS 20' x 102\" x 34\" PH FLATDECK TRAIL E R SUPER SINGLE": {
-        "price": "10,775.00",
-        "msrp": "14,007.50"
+        "price": "10,480.00",
+        "msrp": "13,624.00"
       },
       "FHZ_SS 42' x 102\" x 34\" GN FLATDECK TRAILER SUPER SINGLE": {
         "price": "15,410.00",
@@ -5126,8 +5126,8 @@
         "msrp": "17,706.00"
       },
       "FHZ_SS 44' x 102\" x 34\" PH FLATDECK TRAILER SUPER SINGLE": {
-        "price": "14,780.00",
-        "msrp": "19,214.00"
+        "price": "15,550.00",
+        "msrp": "20,215.00"
       },
       "FHZ_SS 38' x 102\" x 34\" PH FLATDECK TRAILER SUPER SINGLE": {
         "price": "12,845.00",
@@ -5138,12 +5138,12 @@
         "msrp": "16,451.50"
       },
       "FHZ_SS 22' x 102\" x 34\" PH FLATDECK TRAILER SUPER SINGLE": {
-        "price": "10,775.00",
-        "msrp": "14,007.50"
+        "price": "10,720.00",
+        "msrp": "13,936.00"
       },
       "FHZ_SS 42' x 102\" x 34\" PH FLATDECK TRAILER SUPER SINGLE": {
-        "price": "14,345.00",
-        "msrp": "18,648.50"
+        "price": "15,410.00",
+        "msrp": "20,033.00"
       },
       "FHZ_SS 26' x 102\" x 34\" GN FLATDECK TRAILER SUPER SINGLE": {
         "price": "12,075.00",
@@ -5542,19 +5542,19 @@
       "lift_system": {
         "504-016": {
           "option": "504-015 17.5k Synthetic Rope Winchmax Winch",
-          "price": "2,180"
+          "price": "2,260"
         },
         "504-013": {
           "option": "504-012 13.5k Steel Cable Winchmax Winch",
-          "price": "1,575"
+          "price": "1,365"
         },
         "504-015": {
           "option": "504-014 17.5k Steel Cable Winchmax Winch",
-          "price": "2,260"
+          "price": "1,735"
         },
         "504-014": {
           "option": "504-013 13.5k Synthetic Rope Winchmax Winch",
-          "price": "1,735"
+          "price": "1,575"
         },
         "509-016": {
           "option": "Tuff Wireless 2 Button Remote (Hydraulic Jacks)",
@@ -6120,8 +6120,8 @@
         "price": "11,110.00"
       },
       "FTZ 20' x 102\" x 34\" GN FLATDECK TRAILE R": {
-        "msrp": "10,640.50",
-        "price": "8,185.00"
+        "msrp": "11,615.50",
+        "price": "8,935.00"
       },
       "FTZ 26' x 102\" x 34\" GN FLATDECK TRAILER": {
         "msrp": "12,499.50",
@@ -6408,7 +6408,7 @@
       "lift_system": {
         "504-013": {
           "option": "504-012 13.5k Steel Cable Winchmax Winch",
-          "price": "1,575"
+          "price": "1,365"
         },
         "504-015": {
           "option": "504-014 17.5k Steel Cable Winchmax Winch",
@@ -6416,7 +6416,7 @@
         },
         "504-014": {
           "option": "504-013 13.5k Synthetic Rope Winchmax Winch",
-          "price": "1,735"
+          "price": "1,575"
         },
         "509-016": {
           "option": "545 509-016 Tuff Wireless 2 Button Remote (Hydraulic Jacks)",
@@ -6492,8 +6492,8 @@
         "price": "18,050.00"
       },
       "FYZ 30' x 102\" x 34\" PH FLATDECK HYD DOVETAIL": {
-        "msrp": "21,612.50",
-        "price": "16,625.00"
+        "msrp": "13,357.50",
+        "price": "10,275.00"
       },
       "FYZ 34' x 102\" x 34\" PH FLATDECK HYD DOVETAIL": {
         "msrp": "22,542.00",
@@ -6528,8 +6528,8 @@
         "price": "18,380.00"
       },
       "FYZ 30' x 102\" x 34\" GN FLATDECK HYD DOVETAIL": {
-        "msrp": "22,847.50",
-        "price": "17,575.00"
+        "msrp": "21,612.50",
+        "price": "16,625.00"
       },
       "FYZ 44' x 102\" x 34\" GN FLATDECK HYD DOVETAIL": {
         "msrp": "26,799.50",
@@ -7792,12 +7792,12 @@
         "price": "10,040.00"
       },
       "HEH 22' x 82\" x 25\" BP EQUIPMENT TRAILER": {
-        "msrp": "12,798.50",
-        "price": "9,845.00"
+        "msrp": "13,377.00",
+        "price": "10,290.00"
       },
       "HEH 20' x 82\" x 25\" GN EQUIPMENT TRAIL E R": {
-        "msrp": "13,013.00",
-        "price": "10,010.00"
+        "msrp": "12,798.50",
+        "price": "9,845.00"
       },
       "HEH 24' x 82\" x 25\" GN EQUIPMENT TRAILER": {
         "msrp": "13,643.50",
@@ -8026,36 +8026,36 @@
     "id": "HET",
     "models_and_prices": {
       "HET 22' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
-        "msrp": "6,675.50",
-        "price": "5,135.00"
+        "msrp": "14,989.00",
+        "price": "11,530.00"
       },
       "HET 20' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
-        "msrp": "13,013.00",
-        "price": "10,010.00"
+        "msrp": "15,762.50",
+        "price": "12,125.00"
       },
       "HET 24' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
-        "msrp": "7,195.50",
-        "price": "5,535.00"
+        "msrp": "15,145.00",
+        "price": "11,650.00"
       },
       "HET 26' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
-        "msrp": "10,029.50",
-        "price": "7,715.00"
+        "msrp": "16,659.50",
+        "price": "12,815.00"
       },
       "HET 22' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
-        "msrp": "9,379.50",
-        "price": "7,215.00"
+        "msrp": "16,120.00",
+        "price": "12,400.00"
       },
       "HET 24' x 82\" x 25\" GN EQUIPMENT TILT TRAILER": {
-        "msrp": "9,711.00",
-        "price": "7,470.00"
+        "msrp": "16,341.00",
+        "price": "12,570.00"
       },
       "HET 20' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
-        "msrp": "6,506.50",
-        "price": "5,005.00"
+        "msrp": "14,566.50",
+        "price": "11,205.00"
       },
       "HET 26' x 82\" x 25\" BP EQUIPMENT TILT TRAILER": {
-        "msrp": "14,046.50",
-        "price": "10,805.00"
+        "msrp": "15,567.50",
+        "price": "11,975.00"
       }
     },
     "options": {
@@ -8585,8 +8585,8 @@
     "id": "HRD",
     "models_and_prices": {
       "HRD 14' x 61\" x 30\" GN ROLL OFF TRA I L E R": {
-        "msrp": "17,660.50",
-        "price": "13,585.00"
+        "msrp": "16,776.50",
+        "price": "12,905.00"
       },
       "HRD 16' x 61\" x 30\" GN ROLL OFF TRAILER": {
         "msrp": "17,660.50",
@@ -8811,15 +8811,15 @@
     "models_and_prices": {
       "HRZ 20' x 96\" x 15\" ROLL OFF DECK": {
         "msrp": "5,187.00",
-        "price": "6,051.50"
+        "price": "3,990.00"
       },
       "HRZ 14' x 96\" x 15\" ROLL OFF DECK": {
         "msrp": "5,187.00",
-        "price": "5,187.00"
+        "price": "3,990.00"
       },
       "HRZ 16' x 96\" x 15\" ROLL OFF DECK": {
         "msrp": "5,538.00",
-        "price": "5,538.00"
+        "price": "4,260.00"
       }
     },
     "options": {
@@ -9428,20 +9428,20 @@
         "price": "10,185.00"
       },
       "HZ7 14' x 83\" GN DUMP TRAILER": {
-        "msrp": "13,240.50",
-        "price": "10,185.00"
+        "msrp": "13,923.00",
+        "price": "10,710.00"
       },
       "HZ7 16' x 83\" BP DUMP TR A I L E R": {
-        "msrp": "12,031.50",
-        "price": "9,255.00"
+        "msrp": "14,644.50",
+        "price": "11,265.00"
       },
       "HZ7 16' x 83\" GN DUMP TRAILER": {
-        "msrp": "13,240.50",
-        "price": "10,185.00"
+        "msrp": "13,058.50",
+        "price": "10,045.00"
       },
       "HZ7 14' x 83\" BP DUMP TRAILER": {
-        "msrp": "12,031.50",
-        "price": "9,255.00"
+        "msrp": "12,584.00",
+        "price": "9,680.00"
       },
       "HZ7 12' x 83\" BP DUMP TRAILER": {
         "msrp": "12,031.50",
@@ -9696,8 +9696,8 @@
         "price": "18,150.00"
       },
       "HZH 18' x 96\" PH DUMP TRAILER": {
-        "msrp": "23,426.00",
-        "price": "18,020.00"
+        "msrp": "23,595.00",
+        "price": "18,150.00"
       }
     },
     "options": {
@@ -9796,7 +9796,7 @@
         },
         "500-022": {
           "option": "2 - 12k Electric Brake Dual Oil Bath Spring Axles",
-          "price": "1,485"
+          "price": "1,045"
         },
         "501-010": {
           "option": "ST235/80R16 10 Ply Tire (3,080 lbs)",
@@ -10097,24 +10097,24 @@
         "price": "9,125.00"
       },
       "LZ7 16' x 83\" GN DUMP TRAILER": {
-        "msrp": "11,862.50",
-        "price": "9,125.00"
+        "msrp": "12,629.50",
+        "price": "9,715.00"
       },
       "LZ7 12' x 83\" BP DUMP TRAILER": {
         "msrp": "10,881.00",
         "price": "8,370.00"
       },
       "LZ7 14' x 83\" BP DUMP TRAILER": {
-        "msrp": "10,881.00",
-        "price": "8,370.00"
+        "msrp": "11,089.00",
+        "price": "8,530.00"
       },
       "LZ7 16' x 83\" BP DUMP TRAILER": {
-        "msrp": "10,881.00",
-        "price": "8,370.00"
+        "msrp": "11,888.50",
+        "price": "9,145.00"
       },
       "LZ7 14' x 83\" GN DUMP TRAILER": {
-        "msrp": "11,862.50",
-        "price": "9,125.00"
+        "msrp": "12,122.50",
+        "price": "9,325.00"
       }
     },
     "options": {
@@ -10300,7 +10300,7 @@
         },
         "501-022": {
           "option": "2 - Aluminum Rims w/ ST235/85R16 14 Ply Tires (4,400 lbs)",
-          "price": "145"
+          "price": "455"
         },
         "501-103": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -10316,7 +10316,7 @@
         },
         "501-020": {
           "option": "2 - ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
-          "price": "325"
+          "price": "85"
         },
         "501-106": {
           "option": "Aluminum Rims w/ ST235/85R16 14 Ply Tire (4,400 lbs)",
@@ -10595,8 +10595,8 @@
     "id": "RDZ",
     "models_and_prices": {
       "RDZ 14' x 61\" x 30\" BP ROLL OFF TRAILER": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "11,830.00",
+        "price": "9,100.00"
       },
       "RDZ 16' x 61\" x 30\" BP ROLL OFF TRAILER": {
         "msrp": "12,161.50",
@@ -10862,11 +10862,11 @@
     "models_and_prices": {
       "ROZ 16' x 96\" x 13\" ROLL OFF DECK": {
         "msrp": "4,914.00",
-        "price": "4,914.00"
+        "price": "3,780.00"
       },
       "ROZ 14' x 96\" x 13\" ROLL OFF DECK": {
         "msrp": "4,192.50",
-        "price": "4,192.50"
+        "price": "3,225.00"
       }
     },
     "options": {
@@ -10917,124 +10917,124 @@
     "id": "UTZ",
     "models_and_prices": {
       "UTZ 22' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,734.00",
-        "price": "5,180.00"
+        "msrp": "6,181.50",
+        "price": "4,755.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
         "msrp": "6,656.00",
         "price": "5,120.00"
       },
       "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "5,551.00",
+        "price": "4,270.00"
       },
       "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "5,044.00",
+        "price": "3,880.00"
       },
       "UTZ 16' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,201.00",
-        "price": "4,770.00"
+        "msrp": "5,206.50",
+        "price": "4,005.00"
       },
       "UTZ 16' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,201.00",
-        "price": "4,770.00"
+        "msrp": "5,109.00",
+        "price": "3,930.00"
       },
       "UTZ 16' x 77\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,201.00",
-        "price": "4,770.00"
+        "msrp": "5,668.00",
+        "price": "4,360.00"
       },
       "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
-        "msrp": "6,656.00",
-        "price": "5,120.00"
+        "msrp": "4,075.50",
+        "price": "3,135.00"
       },
       "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "4,907.50",
+        "price": "3,775.00"
       },
       "UTZ 16' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,201.00",
-        "price": "4,770.00"
+        "msrp": "5,616.00",
+        "price": "4,320.00"
       },
       "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "4,218.50",
+        "price": "3,245.00"
       },
       "UTZ 18' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,383.00",
-        "price": "4,910.00"
+        "msrp": "5,271.50",
+        "price": "4,055.00"
       },
       "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,656.00",
-        "price": "5,120.00"
+        "msrp": "4,920.50",
+        "price": "3,785.00"
       },
       "UTZ 24' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,916.00",
-        "price": "5,320.00"
+        "msrp": "5,967.00",
+        "price": "4,590.00"
       },
       "UTZ 20' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,552.00",
-        "price": "5,040.00"
+        "msrp": "5,382.00",
+        "price": "4,140.00"
       },
       "UTZ 22' x 83\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "6,734.00",
-        "price": "5,180.00"
+        "msrp": "5,752.50",
+        "price": "4,425.00"
       },
       "UTZ 18' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
-        "msrp": "6,383.00",
-        "price": "4,910.00"
+        "msrp": "6,357.00",
+        "price": "4,890.00"
       },
       "UTZ 22' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
-        "msrp": "6,734.00",
-        "price": "5,180.00"
+        "msrp": "6,539.00",
+        "price": "5,030.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
         "msrp": "6,656.00",
         "price": "5,120.00"
       },
       "UTZ 24' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
-        "msrp": "6,916.00",
-        "price": "5,320.00"
+        "msrp": "6,656.00",
+        "price": "5,120.00"
       },
       "UTZ 24' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,916.00",
-        "price": "5,320.00"
+        "msrp": "6,383.00",
+        "price": "4,910.00"
       },
       "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "5,583.50",
+        "price": "4,295.00"
       },
       "UTZ 20' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,552.00",
-        "price": "5,040.00"
+        "msrp": "5,895.50",
+        "price": "4,535.00"
       },
       "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "4,121.00",
+        "price": "3,170.00"
       },
       "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "4,446.00",
+        "price": "3,420.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
         "msrp": "6,656.00",
         "price": "5,120.00"
       },
       "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
-        "msrp": "6,656.00",
-        "price": "5,120.00"
+        "msrp": "4,231.50",
+        "price": "3,255.00"
       },
       "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
-        "msrp": "12,168.00",
-        "price": "9,360.00"
+        "msrp": "4,270.50",
+        "price": "3,285.00"
       },
       "UTZ 18' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
-        "msrp": "6,383.00",
-        "price": "4,910.00"
+        "msrp": "5,785.00",
+        "price": "4,450.00"
       },
       "UTZ 20' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
-        "msrp": "6,552.00",
-        "price": "5,040.00"
+        "msrp": "6,409.00",
+        "price": "4,930.00"
       }
     },
     "options": {
