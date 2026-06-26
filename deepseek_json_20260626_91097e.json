@@ -1,0 +1,163 @@
+{
+  "id": "",
+  "models_and_prices": {
+    "CEZ 16' x 83\" x 23\" BP SINGLE CAR HAULER TRAILER .": {
+      "msrp": "",
+      "price": ""
+    },
+    "CEZ 18' x 83\" x 23\" BP SINGLE CAR HAULER TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "CEZ 20' x 83\" x 23\" BP SINGLE CAR HAULER TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "CEZ 22' x 83\" x 23\" BP SINGLE CAR HAULER TRAILER": {
+      "msrp": "",
+      "price": ""
+    },
+    "CEZ 24' x 83\" x 23\" BP SINGLE CAR HAULER TRAILER": {
+      "msrp": "",
+      "price": ""
+    }
+  },
+  "options": {
+    "deck": {
+      "508-003": {
+        "option": "",
+        "price": ""
+      },
+      "506-005": {
+        "option": "",
+        "price": ""
+      },
+      "511-003": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-420": {
+        "option": "",
+        "price": ""
+      },
+      "508-001": {
+        "option": "",
+        "price": ""
+      },
+      "508-002": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-404": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "tongue": {
+      "CEZ-447": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-213": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-448": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "running_gear": {
+      "501-004": {
+        "option": "",
+        "price": ""
+      },
+      "501-022": {
+        "option": "",
+        "price": ""
+      },
+      "501-002": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-A02": {
+        "option": "",
+        "price": ""
+      },
+      "501-003": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "electrical_and_lighting": {
+      "505-001": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "finish": {
+      "CEZ-815": {
+        "option": "",
+        "price": ""
+      },
+      "CEZ-807": {
+        "option": "",
+        "price": ""
+      }
+    },
+    "lift_system": {
+      "504-013": {
+        "option": "",
+        "price": ""
+      },
+      "504-012": {
+        "option": "",
+        "price": ""
+      }
+    }
+  },
+  "model_id": "",
+  "category": "",
+  "type": "",
+  "name": "",
+  "specifications": {
+    "finish": {
+      "paint": ""
+    },
+    "tongue": {
+      "jack": "",
+      "safety_chains": "",
+      "winch_plate": "",
+      "storage": "",
+      "coupler": "",
+      "length": "",
+      "spare": "",
+      "type": ""
+    },
+    "running_gear": {
+      "suspension": "",
+      "rims": "",
+      "tires": "",
+      "axles": ""
+    },
+    "electrical_and_lighting": {
+      "lights": ""
+    },
+    "weight_ratings": {
+      "gvwr": ""
+    },
+    "chassis": {
+      "main_frame": ""
+    },
+    "deck": {
+      "ramps": "",
+      "crossmembers": "",
+      "deck_width": "",
+      "sides": "",
+      "flooring": "",
+      "width_between_fenders": "",
+      "fenders": "",
+      "type": ""
+    }
+  }
+}
