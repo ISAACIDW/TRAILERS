@@ -71,7 +71,7 @@
       "running_gear": {
         "501-004": {
           "option": "ST225/75R15 10 Ply Tires (2,830 lbs)",
-          "price": "105"
+          "price": "170"
         },
         "501-022": {
           "option": "ST225/75R15 10 Ply Tire (2,830 lbs)",
@@ -298,7 +298,7 @@
         },
         "508-003": {
           "option": "8 Additional D-Rings Welded Across Deck",
-          "price": ""
+          "price": "125"
         },
         "507-008": {
           "option": "8-4\"Sliding Ratchets",
@@ -430,7 +430,7 @@
         },
         "501-050": {
           "option": "1-S1235/75RI75 18 Ply Tire Dual (4,960 lbs) $s",
-          "price": "35"
+          "price": "315"
         },
         "501-034": {
           "option": "1-ST235/75R17518 Ply Tire (5,675 Ibs)",
@@ -594,7 +594,7 @@
         },
         "501-054": {
           "option": "4-Aluminum Rims w/ST235/80RI6 10 Ply Tires Duals (3080 lbs)",
-          "price": "1,050"
+          "price": "185"
         },
         "SO1-O1": {
           "option": "1-S1235/a5RI6 14 Ply Tire (3,860 Ibs)",
@@ -940,7 +940,7 @@
         },
         "501-008": {
           "option": "ST235/75R17.5 18 Ply Tire Super Single (6,005 lbs)",
-          "price": "245"
+          "price": "295"
         },
         "501-005": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -1038,12 +1038,12 @@
     "id": "EDZ",
     "models_and_prices": {
       "EDZ 14' x 83\" (BED RAIL 60\") ROLL OFF DUMPSTER . . ..": {
-        "msrp": "4,862.00",
-        "price": "3,740.00"
+        "msrp": "12,168.00",
+        "price": "9,360.00"
       },
       "EDZ 16' x 83\" (BED RAIL 60\") ROLL OFF DUMPSTER": {
-        "msrp": "5,187.00",
-        "price": "3,990.00"
+        "msrp": "4,862.00",
+        "price": "3,740.00"
       }
     },
     "options": {
@@ -1054,7 +1054,7 @@
         },
         "EDZ-402": {
           "option": "12\" Crossmember Spacing SR",
-          "price": ""
+          "price": "12"
         },
         "EDZ-801": {
           "option": "Zinc Primer Undercoat",
@@ -1250,7 +1250,7 @@
         },
         "501-008": {
           "option": "ST235/75R17.5 18 Ply Tire Super Single (6,005 lbs)",
-          "price": "245"
+          "price": "295"
         },
         "501-005": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -1621,8 +1621,8 @@
         "price": "11,685.00"
       },
       "EWZ 28' x 102\" x 30\" GN EQUIPMENT HAULER": {
-        "msrp": "11,947.00",
-        "price": "9,190.00"
+        "msrp": "10,809.50",
+        "price": "8,315.00"
       },
       "EWZ 38' x 102\" x 30\" GN EQUIPMENT HAULER": {
         "msrp": "14,443.00",
@@ -1707,7 +1707,7 @@
         },
         "EWZ-302": {
           "option": "6\" Gn Riser Increase $s",
-          "price": "15"
+          "price": "115"
         },
         "EWZ-201": {
           "option": "Locker Style Toolbox",
@@ -1895,15 +1895,15 @@
     "models_and_prices": {
       "EZ7 12' x 83\" BP DUMP TRAILER": {
         "msrp": "10,146.50",
-        "price": "7,805.00"
+        "price": "10,146.50"
       },
       "EZ7 16' x 83\" BP DUMP TRAILER": {
         "msrp": "11,069.50",
-        "price": "8,515.00"
+        "price": "11,069.50"
       },
       "EZ7 14' x 83\" BP DUMP TRAILER": {
         "msrp": "10,445.50",
-        "price": "8,035.00"
+        "price": "10,445.50"
       }
     },
     "options": {
@@ -1914,7 +1914,7 @@
         },
         "506-013": {
           "option": "8\" Extensions Boards",
-          "price": "13 PER LINEAR FT"
+          "price": "13"
         },
         "EZ7-507": {
           "option": "8\" Integrated Wood Extension Brackets",
@@ -2218,7 +2218,7 @@
         },
         "508-005": {
           "option": "2-D-Rings (1/2\" - 12,000 Ibs) Welded Across Deck On The Neck",
-          "price": "2"
+          "price": "21"
         },
         "508-006": {
           "option": "4-D-Rings (\u00a5/2\" -12,000 Ibs) Welded Across Deck On The Neck",
@@ -2336,7 +2336,7 @@
         },
         "501-054": {
           "option": "4-Aluminum Rims w/ $T235/80RI6 10 Ply Tires Duals (3,080 Ibs)",
-          "price": "1,050"
+          "price": "185"
         },
         "501-055": {
           "option": "4-Aluminum Rims w/ST235/85R1614 Ply Tires Duals (3,860 Ibs)",
@@ -2360,11 +2360,11 @@
         },
         "501-050": {
           "option": "1-ST235/75R17.5 18 Ply Tire Dual (4,960 Ibs)",
-          "price": "35"
+          "price": "315"
         },
         "501-034": {
           "option": "1-ST235/75R175 18 Ply Tire (5,675 Ibs)",
-          "price": "35"
+          "price": "315"
         }
       },
       "electrical_and_lighting": {
@@ -2607,7 +2607,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "FFHS-412": {
           "option": "Ratchet Slide Track Right Side",
@@ -3007,7 +3007,7 @@
         },
         "508-001": {
           "option": "4 Additional D-Rings Welded Across Deck (V2\" -12,000 Ibs) s",
-          "price": "95"
+          "price": "65"
         },
         "508-003": {
           "option": "8 Additional D-Rings Welded Across Deck (V2\" -12,000 Ibs)",
@@ -3176,11 +3176,11 @@
       "chassis": {
         "FFT-610": {
           "option": "I-Beam Bridge Frame Upgrade",
-          "price": "13 PER LINEAR FT"
+          "price": "13"
         },
         "FFT-608": {
           "option": "12\" I-Beam (16 lbs/ft) Frame Upgrade",
-          "price": "11 PER LINEAR FT"
+          "price": "11"
         }
       },
       "lift_system": {
@@ -3206,7 +3206,7 @@
         },
         "504-014": {
           "option": "175k Steel Cable Winchmax Winch",
-          "price": "735"
+          "price": "1,735"
         },
         "504-015": {
           "option": "175k synthetic Rope Winchmax Winch",
@@ -3274,8 +3274,8 @@
         "price": "19,860.00"
       },
       "FHS 28' x 102\" x 38\" GN PARTIAL TILT FLATDECK TRAILER": {
-        "msrp": "22,919.00",
-        "price": "17,630.00"
+        "msrp": "22,594.00",
+        "price": "17,380.00"
       },
       "FHS 40' x 102\" x 38\" GN PARTIAL TILT FLATDECK TRAILER": {
         "msrp": "25,798.50",
@@ -3310,8 +3310,8 @@
         "price": "18,020.00"
       },
       "FHS 28' x 102\" x 38\" PH PARTIAL TILT FLATDECK TRAILE R": {
-        "msrp": "22,594.00",
-        "price": "17,380.00"
+        "msrp": "22,919.00",
+        "price": "17,630.00"
       },
       "FHS 30' x 102\" x 38\" PH PARTIAL TILT FLATDECK TRAILER": {
         "msrp": "23,094.50",
@@ -3394,7 +3394,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber",
-          "price": ""
+          "price": "15"
         },
         "506-005": {
           "option": "Full Deck Blackwood \"Classic\" Rubber Infused Lumber $s",
@@ -3410,7 +3410,7 @@
         },
         "508-003": {
           "option": "8 Additional D-Rings Welded Across Deck",
-          "price": ""
+          "price": "125"
         },
         "507-004": {
           "option": "4\" x 30' Gearmax Winch Strap with Flat Hook (6,400 Ibs)",
@@ -3514,11 +3514,11 @@
         },
         "501-050": {
           "option": "1-ST235/75RI75 18 Ply Tire Dual (4,960 Ibs) s",
-          "price": "35"
+          "price": "315"
         },
         "501-034": {
           "option": "1-ST235/75R175 18 Ply Tire (5,675 Ibs) $s",
-          "price": "35"
+          "price": "315"
         }
       },
       "electrical_and_lighting": {
@@ -3758,7 +3758,7 @@
         },
         "501-054": {
           "option": "4-Aluminum Rims w/$T235/80RI6 10 Ply Tires Duals (3,080 lbs)",
-          "price": "1,050"
+          "price": "185"
         },
         "501-055": {
           "option": "4-Aluminum Rims w/ST235/85R16 14 Ply Tires Duals (3,860 Ibs)",
@@ -4105,11 +4105,11 @@
         },
         "501-050": {
           "option": "1-ST235/75RI75 18 Ply Tire Dual (4,960 Ibs) s",
-          "price": "35"
+          "price": "315"
         },
         "501-034": {
           "option": "1-ST235/75R175 18 Ply Tire (5,675 Ibs) $s",
-          "price": "35"
+          "price": "315"
         }
       },
       "electrical_and_lighting": {
@@ -4385,7 +4385,7 @@
         },
         "501-054": {
           "option": "4-Aluminum Rims w/$T235/80RI6 10 Ply Tires Duals (3,080 lbs)",
-          "price": "1,050"
+          "price": "185"
         },
         "501-055": {
           "option": "4-Aluminum Rims w/ST235/85R16 14 Ply Tires Duals (3,860 Ibs)",
@@ -4560,8 +4560,8 @@
         "price": "11,545.00"
       },
       "FHZ 20' x 102\" x 34\" PH FLATDECK TRAIL E R": {
-        "msrp": "13,624.00",
-        "price": "10,480.00"
+        "msrp": "14,007.50",
+        "price": "10,775.00"
       },
       "FHZ 42' x 102\" x 34\" GN FLATDECK TRAILER": {
         "msrp": "20,033.00",
@@ -4624,7 +4624,7 @@
         },
         "FHZ-410": {
           "option": "5' Dovetail With 2 Mountain Ramps",
-          "price": "210"
+          "price": "790"
         },
         "507-010": {
           "option": "12 - 4\" Sliding Ratchets",
@@ -4636,7 +4636,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "FHZS-402": {
           "option": "12\" Crossmember Spacing",
@@ -4848,11 +4848,11 @@
         },
         "501-010": {
           "option": "1-ST235/80RI6 10 Ply Tire (3,080 Ibs) $ 140 \u2014 501-050 1-ST235/75RI7518 Ply Tire Dual (4960 Ibs)",
-          "price": "35"
+          "price": "140"
         },
         "501-039": {
           "option": "1-Aluminum Rim w/ST235/80RI6 $ 325 501-034 1-ST235/75RI7518 Ply Tire (5,675 lbs)",
-          "price": "35"
+          "price": "325"
         },
         "501-040": {
           "option": "1-Aluminum Rim w/ST235/85RI6",
@@ -4904,7 +4904,7 @@
         },
         "501-053": {
           "option": "8-ST235/75RI75 18 Ply Tires Duals (4,960 Ibs) $ 1,385 860 Ibs)",
-          "price": "1,840"
+          "price": "1,385"
         }
       },
       "chassis": {
@@ -4920,19 +4920,19 @@
       "lift_system": {
         "504-016": {
           "option": "504-015 17.5k Synthetic Rope Winchmax Winch",
-          "price": "2,260"
+          "price": "2,180"
         },
         "504-013": {
           "option": "504-012 13.5k Steel Cable Winchmax Winch",
-          "price": "1,365"
+          "price": "1,575"
         },
         "504-015": {
           "option": "504-014 17.5k Steel Cable Winchmax Winch",
-          "price": "1,735"
+          "price": "2,260"
         },
         "504-014": {
           "option": "504-013 13.5k Synthetic Rope Winchmax Winch",
-          "price": "1,575"
+          "price": "1,735"
         },
         "509-016": {
           "option": "Tuff Wireless 2 Button Remote (Hydraulic Jacks)",
@@ -4940,7 +4940,7 @@
         },
         "504-017": {
           "option": "504-016 20k Steel Cable Winchmax Winch",
-          "price": "2,180"
+          "price": "2,650"
         },
         "509-018": {
           "option": "509-018 Tuff Wireless 4 Button Remote (Hydraulic Jacks - Winch)",
@@ -4996,7 +4996,7 @@
         },
         "501-055": {
           "option": "4-Aluminum Rims w/ST239/85RI6 (5.080 lbs) 14 Ply Tires Duals (8,860 lbs) $1,840 501-040 1-Aluminum Rim w/ST239/85RI614 Ply Tire Dual",
-          "price": "370"
+          "price": "1,840"
         },
         "FHZ-823": {
           "option": "Side Mount Undercarriage Dunnage Racks FHZ-823 Side Mount Undercarriage Dunnage Racks",
@@ -5174,7 +5174,7 @@
         },
         "FHZ-410": {
           "option": "5' Dovetail With 2 Mountain Ramps",
-          "price": "210"
+          "price": "790"
         },
         "507-010": {
           "option": "12 - 4\" Sliding Ratchets",
@@ -5292,7 +5292,7 @@
         },
         "FHZS-302": {
           "option": "6\" Gn Riser Increase",
-          "price": "75"
+          "price": "115"
         },
         "FHZ-110": {
           "option": "12k Ram 2 Speed Jacks",
@@ -5316,7 +5316,7 @@
         },
         "FHZS-213": {
           "option": "Mega Lockable Toolbox",
-          "price": "415"
+          "price": "210"
         },
         "FHZ-TI0": {
           "option": "12kRam2 Speed Jacks",
@@ -5450,11 +5450,11 @@
         },
         "501-010": {
           "option": "1-ST235/80RI6 10 Ply Tire (3,080 Ibs) $ 140 \u2014 501-050 1-ST235/75RI7518 Ply Tire Dual (4960 Ibs)",
-          "price": "35"
+          "price": "140"
         },
         "501-039": {
           "option": "1-Aluminum Rim w/ST235/80RI6 $ 325 501-034 1-ST235/75RI7518 Ply Tire (5,675 lbs)",
-          "price": "35"
+          "price": "325"
         },
         "501-040": {
           "option": "1-Aluminum Rim w/ST235/85RI6",
@@ -5518,7 +5518,7 @@
         },
         "FHZS-817": {
           "option": "Ramps Painted Black",
-          "price": "365"
+          "price": "315"
         },
         "FHZ-801": {
           "option": "Zinc Primer Undercoat",
@@ -5526,7 +5526,7 @@
         },
         "501-053": {
           "option": "8-ST235/75RI75 18 Ply Tires Duals (4,960 Ibs) $ 1,385 860 Ibs)",
-          "price": "1,840"
+          "price": "1,385"
         }
       },
       "chassis": {
@@ -5618,7 +5618,7 @@
         },
         "501-055": {
           "option": "4-Aluminum Rims w/ST239/85RI6 (5.080 lbs) 14 Ply Tires Duals (8,860 lbs) $1,840 501-040 1-Aluminum Rim w/ST239/85RI614 Ply Tire Dual",
-          "price": "370"
+          "price": "1,840"
         },
         "FHZ-823": {
           "option": "Side Mount Undercarriage Dunnage Racks FHZ-823 Side Mount Undercarriage Dunnage Racks",
@@ -5808,7 +5808,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\"",
-          "price": "5"
+          "price": "15"
         },
         "506-005": {
           "option": "Full Deck Blackwood \"Classic\" Rubber Infused Lumber",
@@ -5824,7 +5824,7 @@
         },
         "507-004": {
           "option": "4x30\u2019 Gearmax Winch Strap with Flat Hook (5400 lbs)",
-          "price": ""
+          "price": "42"
         },
         "508-001": {
           "option": "4 Additional D-Rings Welded Across Deck",
@@ -5878,7 +5878,7 @@
         },
         "FTS-302": {
           "option": "6\" Gn Riser Increase",
-          "price": "15"
+          "price": "115"
         },
         "FTS-301": {
           "option": "Deck on the Neck (96\"L X 102\"W) \u201cFlip Down Spare Tire Mount Included",
@@ -6188,7 +6188,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "FTZ-402": {
           "option": "12\" Crossmember Spacing",
@@ -6250,7 +6250,7 @@
         },
         "FTZ-302": {
           "option": "6\" Gn Riser Increase",
-          "price": "15"
+          "price": "115"
         },
         "FTZ-103": {
           "option": "12k Ram 2 Speed Jack",
@@ -6276,7 +6276,7 @@
         },
         "501-047": {
           "option": "1,355 501-047 Aluminum Rims w/ ST235/85R16 14 Ply Tires (4,400 lbs)",
-          "price": "355"
+          "price": "1,355"
         },
         "501-006": {
           "option": "185 501-006 ST235/85R16 14 Ply Tire Single (4,400 lbs)",
@@ -6492,8 +6492,8 @@
         "price": "18,050.00"
       },
       "FYZ 30' x 102\" x 34\" PH FLATDECK HYD DOVETAIL": {
-        "msrp": "21,612.50",
-        "price": "16,625.00"
+        "msrp": "13,357.50",
+        "price": "10,275.00"
       },
       "FYZ 34' x 102\" x 34\" PH FLATDECK HYD DOVETAIL": {
         "msrp": "22,542.00",
@@ -6528,8 +6528,8 @@
         "price": "18,380.00"
       },
       "FYZ 30' x 102\" x 34\" GN FLATDECK HYD DOVETAIL": {
-        "msrp": "22,847.50",
-        "price": "17,575.00"
+        "msrp": "21,612.50",
+        "price": "16,625.00"
       },
       "FYZ 44' x 102\" x 34\" GN FLATDECK HYD DOVETAIL": {
         "msrp": "26,799.50",
@@ -6548,7 +6548,7 @@
         },
         "506-005": {
           "option": "Full Deck Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "29 PER LINEAR FT"
+          "price": "29"
         },
         "507-007": {
           "option": "6 - 4\" Sliding Ratchets",
@@ -6580,7 +6580,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "FYZS-411": {
           "option": "Ratchet Slide Track Left Side",
@@ -6680,7 +6680,7 @@
         },
         "FYZ-446": {
           "option": "Dovetail 12\" Crossmember Spacing",
-          "price": "12 PER LINEAR FT"
+          "price": "12"
         }
       },
       "tongue": {
@@ -6876,7 +6876,7 @@
         },
         "501-054": {
           "option": "4 - Aluminum Rims w/ ST235/80R16 10 Ply Tires Duals (3,080 lbs)",
-          "price": "1,050"
+          "price": "185"
         },
         "501-055": {
           "option": "4 - Aluminum Rims w/ ST235/85R16 14 Ply Tires Duals (3,860 lbs)",
@@ -7086,7 +7086,7 @@
         },
         "506-005": {
           "option": "Full Deck Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "29 PER LINEAR FT"
+          "price": "29"
         },
         "507-007": {
           "option": "6 - 4\" Sliding Ratchets",
@@ -7118,7 +7118,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "FYZS-411": {
           "option": "Ratchet Slide Track Left Side",
@@ -7218,7 +7218,7 @@
         },
         "FYZ-446": {
           "option": "Dovetail 12\" Crossmember Spacing",
-          "price": "12 PER LINEAR FT"
+          "price": "12"
         },
         "506-008": {
           "option": "Dovetail Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
@@ -7430,7 +7430,7 @@
         },
         "501-054": {
           "option": "4 - Aluminum Rims w/ ST235/80R16 10 Ply Tires Duals (3,080 lbs)",
-          "price": "1,050"
+          "price": "185"
         },
         "501-055": {
           "option": "4 - Aluminum Rims w/ ST235/85R16 14 Ply Tires Duals (3,860 lbs)",
@@ -7684,7 +7684,7 @@
         },
         "HCZ-402": {
           "option": "12\" Crossmember Spacing $ T2 Perunear Fr",
-          "price": "12 PER LINEAR FT"
+          "price": "12"
         }
       },
       "finish": {
@@ -7738,7 +7738,7 @@
       "deck": {
         "HDZ-512": {
           "option": "6 High Sides",
-          "price": "75 PER LINEAR FT"
+          "price": "75"
         },
         "HDZ-701": {
           "option": "Manual Tarp Kit",
@@ -7746,7 +7746,7 @@
         },
         "HDZ-402": {
           "option": "12\" Crossmember Spacing",
-          "price": "12 PER LINEAR FT"
+          "price": "12"
         }
       },
       "finish": {
@@ -7788,24 +7788,24 @@
         "price": "10,290.00"
       },
       "HEH 24' x 82\" x 25\" BP EQUIPMENT TRAILER": {
-        "msrp": "13,643.50",
-        "price": "10,495.00"
+        "msrp": "13,052.00",
+        "price": "10,040.00"
       },
       "HEH 22' x 82\" x 25\" BP EQUIPMENT TRAILER": {
         "msrp": "13,377.00",
         "price": "10,290.00"
       },
       "HEH 20' x 82\" x 25\" GN EQUIPMENT TRAIL E R": {
-        "msrp": "13,013.00",
-        "price": "10,010.00"
+        "msrp": "12,798.50",
+        "price": "9,845.00"
       },
       "HEH 24' x 82\" x 25\" GN EQUIPMENT TRAILER": {
         "msrp": "13,643.50",
         "price": "10,495.00"
       },
       "HEH 20' x 82\" x 25\" BP EQUIPMENT TRAILER": {
-        "msrp": "13,013.00",
-        "price": "10,010.00"
+        "msrp": "12,421.50",
+        "price": "9,555.00"
       },
       "HEH 26' x 82\" x 25\" GN EQUIPMENT TRAILER": {
         "msrp": "13,838.50",
@@ -8098,11 +8098,11 @@
         },
         "506-005": {
           "option": "Full Deck Blackwood \"Classic\" Rubber Infused Lumber penuncaner",
-          "price": "29 PER LINEAR FT"
+          "price": "29"
         },
         "508-009": {
           "option": "4-Latch On Tie Down Fittings 2\" O-ring (4,000 Ibs)",
-          "price": "42 PER LINEAR FT"
+          "price": "42"
         },
         "508-011": {
           "option": "8-Latch On Tie Down Fittings 2\" O-ring (4,000 Ibs)",
@@ -8136,7 +8136,7 @@
         },
         "HET-302": {
           "option": "6\" Gn Riser Increase",
-          "price": "15"
+          "price": "115"
         },
         "HET-106": {
           "option": "12k Hydraulic Jacks",
@@ -8440,7 +8440,7 @@
         },
         "508-005": {
           "option": "2-D-Rings Welded Across Deck On",
-          "price": ""
+          "price": "21"
         },
         "508-006": {
           "option": "4-D-RingsWelded Across Deck On The Neck (V/2' -12,000 Ils)",
@@ -8510,7 +8510,7 @@
         },
         "HHZ-801": {
           "option": "Zinc Primer Undercoat",
-          "price": "1,050"
+          "price": "1050"
         }
       },
       "chassis": {},
@@ -8830,7 +8830,7 @@
         },
         "HRZ-402": {
           "option": "12\" Crossmember Spacing $ 12 ver tinear rr",
-          "price": ""
+          "price": "12"
         },
         "HRZ-801": {
           "option": "Zinc Primer Undercoat",
@@ -8951,7 +8951,7 @@
         },
         "506-004": {
           "option": "Deck Sides Blackwood \"Classic\" Rubber Infused Lumber",
-          "price": "15 PER LINEAR FT"
+          "price": "15"
         },
         "507-011": {
           "option": "6 - Weld On 4\" Ratchets Right Side",
@@ -8963,11 +8963,11 @@
         },
         "HYZ-201": {
           "option": "Locker Style Toolbox 3 1s",
-          "price": ""
+          "price": "1,115"
         },
         "HYZ-302": {
           "option": "6\" Gn Riser Increase $s",
-          "price": "15"
+          "price": "115"
         },
         "HYZ-301": {
           "option": "Deck on the Neck (96\"L x 102\"W) Flip Down Spare Tire Mount Included",
@@ -9117,11 +9117,11 @@
       "tongue": {
         "508-005": {
           "option": "2-D-Rings (1/2\" - 12,000 Ibs) Welded Across Deck On The Neck",
-          "price": "32"
+          "price": "21"
         },
         "508-006": {
           "option": "4-D-Rings (1/2\" - 12,000 Ibs) Welded Across Deck On The Neck",
-          "price": "65"
+          "price": "42"
         },
         "503-008": {
           "option": "Shocker Hitch 3\" Gn Coupler (40,000 Ibs)",
@@ -9185,7 +9185,7 @@
     "models_and_prices": {
       "HZ5 8' x 60\" BP DUMP TRAILER": {
         "msrp": "6,662.50",
-        "price": "5,125.00"
+        "price": "6,662.50"
       }
     },
     "options": {
@@ -9214,7 +9214,7 @@
         },
         "501-022": {
           "option": "ST225/75R15 10 Ply Tire (2,830 lbs)",
-          "price": "165"
+          "price": "145"
         },
         "HZ5-A02": {
           "option": "2 - 5.2k Electric Brake EZ Lube Spring Axles (15\"-10 Ply Tires Included)",
@@ -9326,7 +9326,7 @@
     "models_and_prices": {
       "HZ6 12' x 77\" BP DUMP TRAILER": {
         "msrp": "9,561.50",
-        "price": "7,355.00"
+        "price": "9,561.50"
       }
     },
     "options": {
@@ -9432,12 +9432,12 @@
         "price": "10,710.00"
       },
       "HZ7 16' x 83\" BP DUMP TR A I L E R": {
-        "msrp": "13,058.50",
-        "price": "10,045.00"
-      },
-      "HZ7 16' x 83\" GN DUMP TRAILER": {
         "msrp": "14,644.50",
         "price": "11,265.00"
+      },
+      "HZ7 16' x 83\" GN DUMP TRAILER": {
+        "msrp": "13,058.50",
+        "price": "10,045.00"
       },
       "HZ7 14' x 83\" BP DUMP TRAILER": {
         "msrp": "12,584.00",
@@ -9516,7 +9516,7 @@
         },
         "501-008": {
           "option": "ST235/75R17.5 18 Ply Tire Super Single (6,005 lbs)",
-          "price": "245"
+          "price": "295"
         },
         "501-007": {
           "option": "ST235/75R17.5 18 Ply Tires Super Singles (6,005 lbs)",
@@ -9574,7 +9574,7 @@
         },
         "506-013": {
           "option": "8\" Extensions Boards",
-          "price": "13 PER LINEAR FT"
+          "price": "13"
         },
         "HZ7-702": {
           "option": "Crank Over Tarp Kit",
@@ -9696,8 +9696,8 @@
         "price": "18,150.00"
       },
       "HZH 18' x 96\" PH DUMP TRAILER": {
-        "msrp": "23,426.00",
-        "price": "18,020.00"
+        "msrp": "23,595.00",
+        "price": "18,150.00"
       }
     },
     "options": {
@@ -9796,7 +9796,7 @@
         },
         "500-022": {
           "option": "2 - 12k Electric Brake Dual Oil Bath Spring Axles",
-          "price": "1,045"
+          "price": "1,485"
         },
         "501-010": {
           "option": "ST235/80R16 10 Ply Tire (3,080 lbs)",
@@ -10006,7 +10006,7 @@
         },
         "506-013": {
           "option": "8\" Extensions Boards",
-          "price": "13 PER LINEAR FT"
+          "price": "13"
         },
         "HZX-507": {
           "option": "8\" Integrated Wood Extension Brackets",
@@ -10163,7 +10163,7 @@
       "electrical_and_lighting": {
         "505-001": {
           "option": "7.5 Watt Solar Panel",
-          "price": "185"
+          "price": "370"
         }
       },
       "finish": {
@@ -10199,7 +10199,7 @@
         },
         "LZ7-513": {
           "option": "30\" High Sides (10ga.) PER LINEAR FT",
-          "price": "80"
+          "price": "11"
         },
         "LZ7-505": {
           "option": "Pair Of Rear Stabilizer Stands",
@@ -10300,7 +10300,7 @@
         },
         "501-022": {
           "option": "2 - Aluminum Rims w/ ST235/85R16 14 Ply Tires (4,400 lbs)",
-          "price": "455"
+          "price": "145"
         },
         "501-103": {
           "option": "ST235/80R16 10 Ply Tire Single (3,520 lbs)",
@@ -10316,7 +10316,7 @@
         },
         "501-020": {
           "option": "2 - ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
-          "price": "85"
+          "price": "325"
         },
         "501-106": {
           "option": "Aluminum Rims w/ ST235/85R16 14 Ply Tire (4,400 lbs)",
@@ -10388,12 +10388,12 @@
     "id": "PHZ",
     "models_and_prices": {
       "PHZ 32' x 96\" x 34\" BP PIPE HAULER TRAILER": {
-        "msrp": "11,388.00",
-        "price": "8,760.00"
+        "msrp": "10,081.50",
+        "price": "7,755.00"
       },
       "PHZ 40' x 96\" x 34\" BP PIPE HAULER TRAILER": {
-        "msrp": "11,979.50",
-        "price": "9,215.00"
+        "msrp": "10,673.00",
+        "price": "8,210.00"
       }
     },
     "options": {
@@ -10921,8 +10921,8 @@
         "price": "4,755.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
-        "msrp": "4,153.50",
-        "price": "3,195.00"
+        "msrp": "6,656.00",
+        "price": "5,120.00"
       },
       "UTZ 14' x 83\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": {
         "msrp": "5,551.00",
@@ -10989,8 +10989,8 @@
         "price": "5,030.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": {
-        "msrp": "4,784.00",
-        "price": "3,680.00"
+        "msrp": "6,656.00",
+        "price": "5,120.00"
       },
       "UTZ 24' x 83\" x 24\" BP UTILITY TRAILER 2 - 7k Axles": {
         "msrp": "6,656.00",
@@ -11017,8 +11017,8 @@
         "price": "3,420.00"
       },
       "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": {
-        "msrp": "4,010.50",
-        "price": "3,085.00"
+        "msrp": "6,656.00",
+        "price": "5,120.00"
       },
       "UTZ 12' x 83\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": {
         "msrp": "4,231.50",
@@ -11073,7 +11073,7 @@
       "running_gear": {
         "501-004": {
           "option": "ST225/75R15 10 Ply Tires (2,830 lbs)",
-          "price": "105"
+          "price": "170"
         },
         "501-021": {
           "option": "Aluminum Rims w/ ST235/85R16 14 Ply Tire (4,400 lbs)",
@@ -11093,7 +11093,7 @@
         },
         "501-022": {
           "option": "ST225/75R15 10 Ply Tire (2,830 lbs)",
-          "price": "45"
+          "price": "145"
         },
         "501-020": {
           "option": "Aluminum Rims w/ ST235/80R16 10 Ply Tire (3,520 lbs)",
@@ -11105,15 +11105,15 @@
         },
         "501-018": {
           "option": "Aluminum Rims w/$T235/80RI6 10 Ply Tires (3,520 Ibs)",
-          "price": ""
+          "price": "735"
         },
         "501-036": {
           "option": "Aluminum Rims w/ST235/85RI6 14 Ply Tires (4,400 Ibs)",
-          "price": ""
+          "price": "905"
         },
         "501-005": {
           "option": "ST235/80RI6 10 Ply Tire Single (3,520 Ibs)",
-          "price": ""
+          "price": "140"
         }
       },
       "finish": {
