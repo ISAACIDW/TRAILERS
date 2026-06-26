@@ -1,0 +1,344 @@
+[
+  {
+    "id": "HZ5",
+    "category": "Dump Trailer",
+    "type": "Bumper Pull",
+    "name": "Horizon 5 FT Wide Dump Trailer",
+    "models_and_prices": {
+      "HZ5 8' x 60\" BP DUMP TRAILER": {
+        "price": "$5,125.00",
+        "msrp": "$6,662.50"
+      },
+      "HZ5 10' x 60\" BP DUMP TRAILER": {
+        "price": "$5,740.00",
+        "msrp": "$7,462.00"
+      }
+    },
+    "specifications": {
+      "weight_ratings": {
+        "gvwr": "3,800 lbs (8' Dump 1 Axle) / 7,600 lbs (10' Dump 2 Axles)"
+      },
+      "tongue": {
+        "frame": "6\" I-Beam (8.5 lbs/ft)",
+        "toolbox": "Lockable Toolbox (Houses Battery and Pump)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (17,000 lbs)",
+        "jack": "1 Side Wind Drop Jack Leg (7000 lbs)",
+        "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)"
+      },
+      "chassis": {
+        "main_frame": "6\" I-Beam (8.5 lbs/ft)"
+      },
+      "dump": {
+        "bed_width": "60\"",
+        "top_rail_width": "60\"",
+        "flooring": "9ga. Steel Bed",
+        "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+        "d_rings": "4 D-Rings Welded Inside Box",
+        "sides": "18\" High, 12ga Rounded Steel",
+        "gate": "3 Way Door-Spreader Gate",
+        "ramps": "Ramp Pockets w/ 5' Long Slide In 3\" Channel Ramps (4,000 lbs wheel rating each only over area of 12\" or more)",
+        "spare": "Weld On Spare Tire Mount",
+        "tarp": "Manual Tarp Kit"
+      },
+      "lift_system": {
+        "single_cylinder": "(8 ft) 3\"x24\" Single Push Cylinder (7,000 lbs) / (10 ft) 3\"x24\" Single Push Cylinder (7,000 lbs)",
+        "pump": "KTI 12V Hydraulic Pump, 2 Button Hydraulic - Power Up/Power Down"
+      },
+      "running_gear": {
+        "tires": "ST205/75R15 8 Ply Tires (2,150 lbs)",
+        "rims": "15\" Black Mod Wheels",
+        "axles": "(1 Axle 8 ft Dump) 3.5k Electric Brake EZ Lube Spring Axle / (2 Axles 10 ft Dump) 3.5k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Slipper Spring"
+      },
+      "electrical_and_lighting": {
+        "battery": "1-Interstate 27 Deep Cycle Battery",
+        "lights": "DOT Approved Tecniq LED Lights"
+      },
+      "finish": {
+        "paint": "6 Stage Powdercoat"
+      }
+    },
+    "options": {
+      "dump": {
+        "HZ5-524": {
+          "option": "2' High Sides",
+          "price": "$11.00 per linear foot"
+        },
+        "HZ5-518": {
+          "option": "3' High Sides (10ga.)",
+          "price": "$42.00 per linear foot"
+        },
+        "HZ5-519": {
+          "option": "4' High Sides (10ga.)",
+          "price": "$80.00 per linear foot"
+        }
+      },
+      "lift_system": {
+        "509-005": {
+          "option": "Tuff Wireless 2 Button Remote (Hoist or Telescopic)",
+          "price": "$545.00"
+        },
+        "HZ5-525": {
+          "option": "Hoist With 5\"x20\" Single Push Cylinder (10,000 lbs) w/ Side Mounts w/ 5' Long 3\" Channel Ramps",
+          "price": "$315.00"
+        },
+        "HZ5-522": {
+          "option": "Telescopic Cylinder 8' Dump",
+          "price": "$475.00"
+        },
+        "HZ5-523": {
+          "option": "Telescopic Cylinder 10' Dump",
+          "price": "$475.00"
+        }
+      },
+      "running_gear": {
+        "501-000_8ft": {
+          "option": "8' DUMP 3.5K SINGLE AXLE TIRE UPGRADE OPTION: ST225/75R15 10 Ply Tires (2,830 lbs)",
+          "price": "$55.00"
+        },
+        "501-000_10ft": {
+          "option": "10' DUMP 3.5K TANDEM AXLE TIRE UPGRADE OPTION: ST225/75R15 10 Ply Tires (2,830 lbs)",
+          "price": "$105.00"
+        },
+        "HZ5-A01": {
+          "option": "8' DUMP 5.2K SINGLE AXLE UPGRADE OPTION (5,700 lbs GVWR): 1-5.2k Electric Brake EZ Lube Spring Axle (15\"-10 Ply Tires Included)",
+          "price": "$265.00"
+        },
+        "HZ5-A02": {
+          "option": "10' DUMP 5.2K TANDEM AXLE UPGRADE OPTION (9,500 lbs GVWR): 2-5.2k Electric Brake EZ Lube Spring Axles (15\"-10 Ply Tires Included)",
+          "price": "$525.00"
+        },
+        "501-002": {
+          "option": "3.5K AXLE SPARE TIRE OPTIONS: ST205/75R15 8 Ply Tires (2,150 lbs)",
+          "price": "$105.00"
+        },
+        "501-003": {
+          "option": "3.5K AXLE SPARE TIRE OPTIONS: ST225/75R15 10 Ply Tire (2,830 lbs)",
+          "price": "$130.00"
+        },
+        "501-022": {
+          "option": "5.2K SPARE TIRE OPTION: ST225/75R15 10 Ply Tire (2,830 lbs)",
+          "price": "$145.00"
+        }
+      },
+      "electrical_and_lighting": {
+        "505-001": {
+          "option": "7.5 Watt Solar Panel",
+          "price": "$370.00"
+        }
+      },
+      "finish": {
+        "HZ5-803": {
+          "option": "2-Tone Colors Chassis / Dump - Deck",
+          "price": "$250.00"
+        },
+        "HZ5-801": {
+          "option": "Zinc Primer Undercoat",
+          "price": "$525.00"
+        }
+      }
+    }
+  },
+  {
+    "id": "HZ6",
+    "category": "Dump Trailer",
+    "type": "Bumper Pull",
+    "name": "Horizon 6 FT Wide Dump Trailer",
+    "models_and_prices": {
+      "HZ6 12' x 77\" BP DUMP TRAILER": {
+        "price": "$7,355.00",
+        "msrp": "$9,561.50"
+      }
+    },
+    "specifications": {
+      "weight_ratings": {
+        "gvwr": "11,300 lbs"
+      },
+      "tongue": {
+        "frame": "6\" I-Beam (8.5 lbs/ft)",
+        "toolbox": "Lockable Toolbox (Houses Battery and Pump)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (17,000 lbs)",
+        "jack": "1 Side Wind Drop Jack Leg (7000 lbs)",
+        "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)"
+      },
+      "chassis": {
+        "main_frame": "6\" I-Beam (8.5 lbs/ft)"
+      },
+      "dump": {
+        "bed_width": "77\"",
+        "top_rail_width": "77\"",
+        "flooring": "9ga. Steel Bed",
+        "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+        "d_rings": "4 D-Rings Welded Inside Box",
+        "sides": "2' High, 12ga Rounded Steel",
+        "gate": "3 Way Door-Spreader Gate",
+        "ramps": "Ramp Pockets w/ 5' Long Slide In 3\" Channel Ramps (4,000 lbs wheel rating each only over area of 12\" or more)",
+        "spare": "Weld On Spare Tire Mount",
+        "tarp": "Manual Tarp Kit"
+      },
+      "lift_system": {
+        "hoist": "$5\"x16\" Single Push Cylinder Hoist (10,000 lbs)",
+        "pump": "KTI 12V Hydraulic Pump, 2 Button Hydraulic - Power Up/Power Down"
+      },
+      "running_gear": {
+        "tires": "ST225/75R15 10 Ply Tires (2,830 lbs)",
+        "rims": "15\" Black Mod Wheels",
+        "axles": "2-5.2k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Slipper Spring"
+      },
+      "electrical_and_lighting": {
+        "battery": "1-Interstate 27 Deep Cycle Battery",
+        "lights": "DOT Approved Tecniq LED Lights"
+      },
+      "finish": {
+        "paint": "6 Stage Powdercoat"
+      }
+    },
+    "options": {
+      "dump": {
+        "HZ6-518": {
+          "option": "3' High Sides (10ga.)",
+          "price": "$42.00 per linear foot"
+        },
+        "HZ6-519": {
+          "option": "4' High Sides (10ga.)",
+          "price": "$80.00 per linear foot"
+        }
+      },
+      "lift_system": {
+        "509-005": {
+          "option": "Tuff Wireless 2 Button Remote (Hoist or Telescopic)",
+          "price": "$545.00"
+        },
+        "HZ6-515": {
+          "option": "Telescopic Cylinder 12' Dump",
+          "price": "$475.00"
+        }
+      },
+      "running_gear": {
+        "501-022": {
+          "option": "SPARE TIRE OPTIONS: ST225/75R15 10 Ply Tire (2,830 lbs)",
+          "price": "$145.00"
+        }
+      },
+      "electrical_and_lighting": {
+        "505-001": {
+          "option": "7.5 Watt Solar Panel",
+          "price": "$370.00"
+        }
+      },
+      "finish": {
+        "HZ6-803": {
+          "option": "2-Tone Colors Chassis / Dump - Deck",
+          "price": "$250.00"
+        },
+        "HZ6-801": {
+          "option": "Zinc Primer Undercoat",
+          "price": "$525.00"
+        }
+      }
+    }
+  },
+  {
+    "id": "EZ7",
+    "category": "Dump Trailer",
+    "type": "Bumper Pull",
+    "name": "Economic Horizon 7 FT Wide Dump Trailer",
+    "models_and_prices": {
+      "EZ7 12' x 83\" BP DUMP TRAILER": {
+        "price": "$7,805.00",
+        "msrp": "$10,146.50"
+      },
+      "EZ7 14' x 83\" BP DUMP TRAILER": {
+        "price": "$8,035.00",
+        "msrp": "$10,445.50"
+      },
+      "EZ7 16' x 83\" BP DUMP TRAILER": {
+        "price": "$8,515.00",
+        "msrp": "$11,069.50"
+      }
+    },
+    "specifications": {
+      "weight_ratings": {
+        "gvwr": "14,000 lbs"
+      },
+      "tongue": {
+        "frame": "Neckboss 8\" Tapered Engineered I-Beam",
+        "toolbox": "Mega Lockable Toolbox Houses Battery & Pump (w/ Extra Storage)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (17,000 lbs)",
+        "jack": "1 Side Wind Spring Loaded Drop Jack Leg (12,000 lbs)",
+        "safety_chains": "3/8\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+        "spare": "Weld On Spare Tire Mount"
+      },
+      "chassis": {
+        "main_frame": "8\" I-Beam (13 lbs/ft)"
+      },
+      "dump": {
+        "bed_width": "83\"",
+        "top_rail_width": "83\"",
+        "flooring": "9ga. Steel Bed",
+        "frame": "2\" x 4\" x 11ga. Tubing",
+        "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+        "d_rings": "4 D-Rings Welded Inside Box",
+        "sides": "19\" High, 12ga Rounded Steel",
+        "gate": "3 Way Door - Spreader Gate",
+        "ramps": "Ramp Pockets w/ 5'4\" Long Slide In 3\" Channel Ramps (4,000 lbs wheel rating each only over area of 12\" or more)",
+        "tarp": "Manual Tarp Kit"
+      },
+      "lift_system": {
+        "hoist_12_14": "$5\"x16\" Single Push Cylinder Hoist (15,000 lbs)",
+        "hoist_16": "$5\"x21\" Single Push Cylinder Hoist (15,000 lbs)",
+        "pump": "KTI 12V Hydraulic Pump, 2 Button Hydraulic - Power Up/Power Down"
+      },
+      "running_gear": {
+        "tires": "ST235/80R16 10 Ply Tires Single (3,520 lbs)",
+        "rims": "16\" Black Mod Wheels",
+        "axles": "2-7k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Spring"
+      },
+      "electrical_and_lighting": {
+        "battery": "1-Interstate 27 Deep Cycle Battery",
+        "lights": "DOT Approved Tecniq LED Lights"
+      },
+      "finish": {
+        "paint": "6 Stage Powdercoat"
+      }
+    },
+    "options": {
+      "tongue": {
+        "EZ7-105": {
+          "option": "12k Hydraulic Jack",
+          "price": "$735.00"
+        }
+      },
+      "dump": {
+        "506-013": {
+          "option": "8\" Extensions Boards",
+          "price": "$13.00 per linear foot"
+        },
+        "EZ7-507": {
+          "option": "8\" Integrated Wood Extension Brackets",
+          "price": "$85.00"
+        },
+        "EZ7-505": {
+          "option": "Pair Of Rear Stabilizer Stands",
+          "price": "$125.00"
+        }
+      },
+      "running_gear": {
+        "501-004": {
+          "option": "7K AXLE TIRE UPGRADE OPTION: ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
+          "price": "$170.00"
+        },
+        "501-005": {
+          "option": "7K AXLE SPARE TIRE OPTIONS: ST235/80R16 10 Ply Tire Single (3,520 lbs)",
+          "price": "$140.00"
+        },
+        "501-006": {
+          "option": "7K AXLE SPARE TIRE OPTIONS: ST235/85R16 14 Ply Tire Single (4,400 lbs)",
+          "price": "$185.00"
+        }
+      }
+    }
+  }
+]

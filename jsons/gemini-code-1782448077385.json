@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ETZ",
+    "category": "Equipment Hauler",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Horizon Equipment Hauler (ETZ)",
+    "models_and_prices": {
+      "ETZ 16' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$6,890.00", "msrp": "$8,957.00" },
+      "ETZ 18' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,035.00", "msrp": "$9,145.50" },
+      "ETZ 20' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,180.00", "msrp": "$9,334.00" },
+      "ETZ 22' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,395.00", "msrp": "$9,613.50" },
+      "ETZ 24' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,610.00", "msrp": "$9,893.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "14,000 lbs" },
+      "tongue": {
+        "tongue_material": "6\" Channel (8.2 lbs/ft)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (21,000 lbs)",
+        "jack": "1 Drop Jack Leg (12,000 lbs)",
+        "safety_chains": "3/8\" Grade 70 Safety Chains w/Clevis Hooks",
+        "spare_mount": "Weld On Spare Tire Mount"
+      },
+      "chassis": {
+        "main_frame": "6\" Channel (8.2 lbs/ft)",
+        "crossmembers": "3\" Channel @ 16\" Spacing",
+        "fenders": "9\" x 72\" Diamond Plate Fenders"
+      },
+      "deck": {
+        "deck_height": "24\" Straight Deck w/ 2' Wood Dove Tail",
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine Floor",
+        "stake_pockets": "Standard Stake Pockets & Rubrail",
+        "ramps": "5' Rear Slide-In Channel Ramps"
+      },
+      "running_gear": {
+        "tires": "ST235/80R16 10 Ply Tires (3,520 lbs)",
+        "rims": "16\" Black Mod Wheels",
+        "axles": "2 - 7k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Multi-Leaf Slipper Spring Suspension"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" },
+      "finish": { "paint": "6 Stage Powdercoat" }
+    }
+  },
+  {
+    "id": "HTZ",
+    "category": "Heavy Duty Equipment Hauler",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Horizon Heavy Duty Equipment Hauler (HTZ)",
+    "models_and_prices": {
+      "HTZ 18' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$8,950.00", "msrp": "$11,635.00" },
+      "HTZ 20' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,150.00", "msrp": "$11,895.00" },
+      "HTZ 22' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,420.00", "msrp": "$12,246.00" },
+      "HTZ 24' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,690.00", "msrp": "$12,597.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "16,000 lbs - 18,000 lbs" },
+      "tongue": {
+        "tongue_material": "8\" Channel (11.5 lbs/ft)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (25,000 lbs)",
+        "jack": "2 Speed 12k Drop Jack Leg",
+        "safety_chains": "3/8\" Grade 70 Safety Chains"
+      },
+      "chassis": {
+        "main_frame": "8\" Channel (11.5 lbs/ft)",
+        "crossmembers": "3\" Channel @ 12\" Spacing",
+        "fenders": "Heavy Duty 1/4\" Drive-Over Steel Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine w/ Rear Iron Cleats on Dove",
+        "ramps": "5' Heavy Duty Stand-Up Ramps w/ Spring Assist"
+      },
+      "running_gear": {
+        "tires": "ST235/85R16 14 Ply Radial Tires (4,400 lbs)",
+        "axles": "2 - 8k Electric Brake Heavy Lube Axles",
+        "suspension": "Heavy Duty Slipper Spring"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" },
+      "finish": { "paint": "6 Stage Powdercoat" }
+    }
+  },
+  {
+    "id": "CHZ",
+    "category": "Car Hauler",
+    "type": "Bumper Pull",
+    "name": "Horizon Standard Car Hauler (CHZ)",
+    "models_and_prices": {
+      "CHZ 16' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,120.00", "msrp": "$5,356.00" },
+      "CHZ 18' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,260.00", "msrp": "$5,538.00" },
+      "CHZ 20' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,410.00", "msrp": "$5,733.00" },
+      "CHZ 18' x 83\" BP Car Hauler 2 - 5.2k Axles": { "price": "$4,845.00", "msrp": "$6,298.50" },
+      "CHZ 20' x 83\" BP Car Hauler 2 - 5.2k Axles": { "price": "$4,990.00", "msrp": "$6,487.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "7,000 lbs - 9,990 lbs" },
+      "tongue": {
+        "tongue_material": "5\" Channel",
+        "coupler": "Adjustable Auto Latch 2\" or 2-5/16\" BP Coupler",
+        "jack": "1 Top-Wind Drop Leg Jack (7,000 lbs)"
+      },
+      "chassis": {
+        "main_frame": "5\" Channel Frame",
+        "crossmembers": "3\" x 2\" Angle Iron @ 20\" Spacing",
+        "fenders": "Removable Smooth Teardrop Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Pine Wood Decking",
+        "d_rings": "4 Stake Pockets and Corner Tiedowns",
+        "ramps": "5' Rear Slide-In Ramps"
+      },
+      "running_gear": {
+        "tires": "ST205/75R15 8 Ply or ST225/75R15 10 Ply",
+        "axles": "2 - Brake EZ Lube Axles (3.5k or 5.2k configurations)",
+        "suspension": "Double Eye Spring Suspension"
+      }
+    }
+  },
+  {
+    "id": "CEZ",
+    "category": "Premium Car Hauler / Tilt",
+    "type": "Bumper Pull",
+    "name": "Horizon Premium Escrow Car Hauler (CEZ)",
+    "models_and_prices": {
+      "CEZ 18' x 83\" BP Powered Tilt 2 - 5.2k Axles": { "price": "$6,210.00", "msrp": "$8,073.00" },
+      "CEZ 20' x 83\" BP Powered Tilt 2 - 5.2k Axles": { "price": "$6,400.00", "msrp": "$8,320.00" },
+      "CEZ 20' x 83\" BP Powered Tilt 2 - 7k Axles": { "price": "$7,415.00", "msrp": "$9,639.50" },
+      "CEZ 22' x 83\" BP Powered Tilt 2 - 7k Axles": { "price": "$7,660.00", "msrp": "$9,958.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "9,990 lbs - 14,000 lbs" },
+      "tongue": {
+        "tongue_material": "6\" Channel",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (21,000 lbs)",
+        "jack": "1 Side-Wind Spring Loaded Jack (12,000 lbs)",
+        "storage": "Integrated Locking Tongue Box for Pump and Battery"
+      },
+      "chassis": {
+        "main_frame": "6\" Channel",
+        "crossmembers": "3\" Channel @ 16\" Spacing",
+        "fenders": "Removable Diamond Plate Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine Floor",
+        "deck_type": "Gravity Tilt or Powered Hydraulic Actuated Cylinder Tilt Deck"
+      },
+      "running_gear": {
+        "axles": "2 - 5.2k or 7k Electric Brake EZ Lube Axles",
+        "suspension": "Torsion or Slipper Spring Upgrades"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" }
+    }
+  }
+]

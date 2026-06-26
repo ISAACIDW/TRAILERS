@@ -1,0 +1,305 @@
+[
+  {
+    "id": "UTZ",
+    "category": "Utility Trailer",
+    "type": "Bumper Pull",
+    "name": "Horizon Utility Trailer 77\" Wide",
+    "models_and_prices": {
+      "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": { "price": "$3,085.00", "msrp": "$4,010.50" },
+      "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 1 - 3.5k Axle": { "price": "$3,170.00", "msrp": "$4,121.00" },
+      "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": { "price": "$3,195.00", "msrp": "$4,153.50" },
+      "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 1 - 5.2k Axle": { "price": "$3,285.00", "msrp": "$4,270.50" },
+      "UTZ 12' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": { "price": "$3,680.00", "msrp": "$4,784.00" },
+      "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": { "price": "$3,775.00", "msrp": "$4,907.50" },
+      "UTZ 16' x 77\" x 22\" BP UTILITY TRAILER 2 - 3.5k Axles": { "price": "$3,930.00", "msrp": "$5,109.00" },
+      "UTZ 14' x 77\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": { "price": "$4,295.00", "msrp": "$5,583.50" },
+      "UTZ 16' x 77\" x 22\" BP UTILITY TRAILER 2 - 5.2k Axles": { "price": "$4,360.00", "msrp": "$5,668.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "3,800 lbs - 10,000 lbs" },
+      "tongue": {
+        "tongue_material": "4\" Channel (4.50 lbs/ft)",
+        "coupler": "Adjustable Auto Latch 2\" BP Coupler (10,000 lbs)",
+        "jack": "1 Side Wind Drop Jack Leg (7,000 lbs)",
+        "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+        "spare_mount": "Weld On Spare Tire Mount"
+      },
+      "chassis": {
+        "main_frame": "4\" Channel (4.50 lbs/ft)",
+        "crossmembers": "2\" x 2, 1/2\" x 3/16\" Angle Iron @ 20\" Spacing",
+        "fenders": "77\" Wide In Between Fenders"
+      },
+      "deck": {
+        "deck_height": "22\" Straight Deck",
+        "deck_width": "77\"",
+        "flooring": "Pine Lumber Floor",
+        "d_rings": "2 - D-Rings In Between Fenders",
+        "side_rails": "Reinforced 2\" 10ga. Round Tubing",
+        "front_rail": "Reinforced 2\" 10ga. Round Tubing",
+        "stake_pockets": "Guard 1,5/8\" x 3,5/8\" (ID) Stake Pockets",
+        "ramps": "1 - 4' High Ramp Gate 2\" x 2\" x 11ga. Tube Frame w/ 10ga. Mesh Covering (4,000 lbs total wheel rating)"
+      },
+      "running_gear": {
+        "tires_3.5k": "ST205/75R15 8 Ply Tires (2,150 lbs)",
+        "tires_5.2k": "ST225/75R15 10 Ply Tires (2,830 lbs)",
+        "rims": "15\" Black Mod Wheels",
+        "axles": "3.5k - 5.2k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Slipper Spring"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" },
+      "finish": { "paint": "6 Stage Powdercoat" }
+    },
+    "options": {
+      "tongue": {
+        "UTZ-101": { "option": "7K Drop Leg Jack Upgrade", "price": "$95.00" },
+        "UTZ-102": { "option": "Poly Lockable Tongue Toolbox", "price": "$185.00" }
+      },
+      "deck_and_sides": {
+        "UTZ-501": { "option": "Blackwood Rubber Infused Lumber Decking Upgrade", "price": "$38.00 per linear foot" },
+        "UTZ-520": { "option": "Expanded Metal Side Mesh Fill-In (22\" High Sides)", "price": "$22.00 per linear foot" },
+        "UTZ-525": { "option": "Solid Sheet Metal Side Fill-In (22\" High Sides)", "price": "$28.00 per linear foot" },
+        "UTZ-508": { "option": "Extra D-Rings (Surface Welded)", "price": "$25.00 each" }
+      },
+      "running_gear": {
+        "501-002": { "option": "Spare Tire Option 3.5K Axle: ST205/75R15 8 Ply Tire", "price": "$105.00" },
+        "501-003": { "option": "Spare Tire Option 5.2K Axle: ST225/75R15 10 Ply Tire", "price": "$130.00" },
+        "501-000": { "option": "Tire Upgrade 3.5K Axle Single/Tandem to 10 Ply (Per Axle)", "price": "$55.00" }
+      },
+      "finish": {
+        "UTZ-803": { "option": "2-Tone Colors (Chassis/Frame Accent)", "price": "$195.00" },
+        "UTZ-801": { "option": "Zinc Primer Undercoat Protective layer", "price": "$315.00" }
+      }
+    }
+  },
+  {
+    "id": "ETZ",
+    "category": "Equipment Hauler",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Horizon Equipment Hauler (ETZ)",
+    "models_and_prices": {
+      "ETZ 16' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$6,890.00", "msrp": "$8,957.00" },
+      "ETZ 18' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,035.00", "msrp": "$9,145.50" },
+      "ETZ 20' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,180.00", "msrp": "$9,334.00" },
+      "ETZ 22' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,395.00", "msrp": "$9,613.50" },
+      "ETZ 24' x 83\" BP Equipment Hauler 2 - 7k Axles": { "price": "$7,610.00", "msrp": "$9,893.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "14,000 lbs" },
+      "tongue": {
+        "tongue_material": "6\" Channel (8.2 lbs/ft)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (21,000 lbs)",
+        "jack": "1 Drop Jack Leg (12,000 lbs)",
+        "safety_chains": "3/8\" Grade 70 Safety Chains w/Clevis Hooks",
+        "spare_mount": "Weld On Spare Tire Mount"
+      },
+      "chassis": {
+        "main_frame": "6\" Channel (8.2 lbs/ft)",
+        "crossmembers": "3\" Channel @ 16\" Spacing",
+        "fenders": "9\" x 72\" Diamond Plate Fenders"
+      },
+      "deck": {
+        "deck_height": "24\" Straight Deck w/ 2' Wood Dove Tail",
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine Floor",
+        "stake_pockets": "Standard Stake Pockets & Rubrail",
+        "ramps": "5' Rear Slide-In Channel Ramps"
+      },
+      "running_gear": {
+        "tires": "ST235/80R16 10 Ply Tires (3,520 lbs)",
+        "rims": "16\" Black Mod Wheels",
+        "axles": "2 - 7k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Multi-Leaf Slipper Spring Suspension"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" },
+      "finish": { "paint": "6 Stage Powdercoat" }
+    },
+    "options": {
+      "tongue_and_neck": {
+        "ETZ-201": { "option": "Gooseneck Upgrade with 8\" Channel Neck & Dual 12k Drop Leg Jacks", "price": "$1,315.00" },
+        "ETZ-205": { "option": "Gooseneck Dual 12k Hydraulic Jacks Upgrade", "price": "$1,415.00" },
+        "ETZ-105": { "option": "Bumper Pull Single 12k Hydraulic Jack Upgrade", "price": "$735.00" },
+        "ETZ-103": { "option": "Steel Locking Tongue Toolbox (Bumper Pull Frame Only)", "price": "$315.00" }
+      },
+      "deck_and_dove": {
+        "ETZ-501": { "option": "Blackwood Rubber Infused Lumber Decking Upgrade", "price": "$42.00 per linear foot" },
+        "ETZ-502": { "option": "Steel Diamond Plate Deck Floor Sub-In", "price": "$65.00 per linear foot" },
+        "ETZ-511": { "option": "3' Self-Cleaning Cleated Iron Monster Ramps w/ Spring Assist Upgrade", "price": "$475.00" },
+        "ETZ-515": { "option": "Extra Extra Slide-in Ramp (Single Tail Track Piece)", "price": "$160.00" },
+        "ETZ-505": { "option": "Rear Support Drop Stabilizer Stands (Pair)", "price": "$125.00" }
+      },
+      "running_gear": {
+        "501-004": { "option": "7K Axle Tire Upgrade: ST235/85R16 14 Ply Mounted Tires", "price": "$170.00" },
+        "501-005": { "option": "7K Axle Spare Tire: ST235/80R16 10 Ply Tire", "price": "$140.00" },
+        "501-006": { "option": "7K Axle Spare Tire: ST235/85R16 14 Ply Tire", "price": "$185.00" }
+      },
+      "finish": {
+        "ETZ-803": { "option": "2-Tone Frame / Accent Paint Shield", "price": "$250.00" },
+        "ETZ-801": { "option": "Zinc Primer Structural Undercoat Protection", "price": "$525.00" }
+      }
+    }
+  },
+  {
+    "id": "HTZ",
+    "category": "Heavy Duty Equipment Hauler",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Horizon Heavy Duty Equipment Hauler (HTZ)",
+    "models_and_prices": {
+      "HTZ 18' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$8,950.00", "msrp": "$11,635.00" },
+      "HTZ 20' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,150.00", "msrp": "$11,895.00" },
+      "HTZ 22' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,420.00", "msrp": "$12,246.00" },
+      "HTZ 24' x 83\" BP Heavy Hauler 2 - 8k Axles": { "price": "$9,690.00", "msrp": "$12,597.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "16,000 lbs - 18,000 lbs" },
+      "tongue": {
+        "tongue_material": "8\" Channel (11.5 lbs/ft)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (25,000 lbs)",
+        "jack": "2 Speed 12k Drop Jack Leg",
+        "safety_chains": "3/8\" Grade 70 Safety Chains"
+      },
+      "chassis": {
+        "main_frame": "8\" Channel (11.5 lbs/ft)",
+        "crossmembers": "3\" Channel @ 12\" Spacing",
+        "fenders": "Heavy Duty 1/4\" Drive-Over Steel Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine w/ Rear Iron Cleats on Dove",
+        "ramps": "5' Heavy Duty Stand-Up Ramps w/ Spring Assist"
+      },
+      "running_gear": {
+        "tires": "ST235/85R16 14 Ply Radial Tires (4,400 lbs)",
+        "axles": "2 - 8k Electric Brake Heavy Lube Axles",
+        "suspension": "Heavy Duty Slipper Spring"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" },
+      "finish": { "paint": "6 Stage Powdercoat" }
+    },
+    "options": {
+      "tongue_and_neck": {
+        "HTZ-201": { "option": "Gooseneck Upgrade Package with Heavy Duty 10\" Channel Structural Neck & Dual Jacks", "price": "$1,450.00" },
+        "HTZ-205": { "option": "Gooseneck Dual 12k Hydraulic Jacks Performance Upgrade", "price": "$1,415.00" },
+        "HTZ-105": { "option": "Bumper Pull Single Hydraulic 12K Jack Cylinder System", "price": "$735.00" }
+      },
+      "deck_and_options": {
+        "HTZ-501": { "option": "Blackwood Premium Rubber Inlay Decking", "price": "$48.00 per linear foot" },
+        "HTZ-512": { "option": "Super Duty HD 3' Cleated Iron Monster Ramps Option", "price": "$525.00" },
+        "HTZ-530": { "option": "Heavy Duty Undermount Locking Utility Box", "price": "$290.00" }
+      },
+      "running_gear": {
+        "501-014": { "option": "8K Spare Tire Assembly Option: ST235/85R16 14 Ply Radial Single", "price": "$195.00" },
+        "501-015": { "option": "Upgrade to 17.5\" Heavy Duty Solid Wheels with 16 Ply Single Tires", "price": "$640.00" }
+      },
+      "finish": {
+        "HTZ-801": { "option": "Zinc Primer Deep Bed Anti-Corrosion Seal", "price": "$630.00" }
+      }
+    }
+  },
+  {
+    "id": "CHZ",
+    "category": "Car Hauler",
+    "type": "Bumper Pull",
+    "name": "Horizon Standard Car Hauler (CHZ)",
+    "models_and_prices": {
+      "CHZ 16' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,120.00", "msrp": "$5,356.00" },
+      "CHZ 18' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,260.00", "msrp": "$5,538.00" },
+      "CHZ 20' x 83\" BP Car Hauler 2 - 3.5k Axles": { "price": "$4,410.00", "msrp": "$5,733.00" },
+      "CHZ 18' x 83\" BP Car Hauler 2 - 5.2k Axles": { "price": "$4,845.00", "msrp": "$6,298.50" },
+      "CHZ 20' x 83\" BP Car Hauler 2 - 5.2k Axles": { "price": "$4,990.00", "msrp": "$6,487.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "7,000 lbs - 9,990 lbs" },
+      "tongue": {
+        "tongue_material": "5\" Channel",
+        "coupler": "Adjustable Auto Latch 2\" or 2-5/16\" BP Coupler",
+        "jack": "1 Top-Wind Drop Leg Jack (7,000 lbs)"
+      },
+      "chassis": {
+        "main_frame": "5\" Channel Frame",
+        "crossmembers": "3\" x 2\" Angle Iron @ 20\" Spacing",
+        "fenders": "Removable Smooth Teardrop Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Pine Wood Decking",
+        "d_rings": "4 Stake Pockets and Corner Tiedowns",
+        "ramps": "5' Rear Slide-In Ramps"
+      },
+      "running_gear": {
+        "tires": "ST205/75R15 8 Ply or ST225/75R15 10 Ply",
+        "axles": "2 - Brake EZ Lube Axles (3.5k or 5.2k configurations)",
+        "suspension": "Double Eye Spring Suspension"
+      }
+    },
+    "options": {
+      "chassis_and_deck": {
+        "CHZ-102": { "option": "Poly Storage Box for Lock/Chains Upgrade", "price": "$185.00" },
+        "CHZ-501": { "option": "Blackwood Infused Lumber Overlay Plan", "price": "$42.00 per linear foot" },
+        "CHZ-504": { "option": "Full Open center Steel Diamond Plate Deck Floor", "price": "$70.00 per linear foot" },
+        "CHZ-509": { "option": "Removable Aluminum Drop Fenders (Upgrade from Steel)", "price": "$160.00" }
+      },
+      "running_gear": {
+        "501-002": { "option": "3.5K Axle Spare Assembly: ST205/75R15 8 Ply", "price": "$105.00" },
+        "501-022": { "option": "5.2K Axle Spare Assembly: ST225/75R15 10 Ply", "price": "$145.00" }
+      },
+      "finish": {
+        "CHZ-801": { "option": "Zinc Primer Shield Paint Sub-base", "price": "$395.00" }
+      }
+    }
+  },
+  {
+    "id": "CEZ",
+    "category": "Premium Car Hauler / Tilt",
+    "type": "Bumper Pull",
+    "name": "Horizon Premium Escrow Car Hauler (CEZ)",
+    "models_and_prices": {
+      "CEZ 18' x 83\" BP Powered Tilt 2 - 5.2k Axles": { "price": "$6,210.00", "msrp": "$8,073.00" },
+      "CEZ 20' x 83\" BP Powered Tilt 2 - 5.2k Axles": { "price": "$6,400.00", "msrp": "$8,320.00" },
+      "CEZ 20' x 83\" BP Powered Tilt 2 - 7k Axles": { "price": "$7,415.00", "msrp": "$9,639.50" },
+      "CEZ 22' x 83\" BP Powered Tilt 2 - 7k Axles": { "price": "$7,660.00", "msrp": "$9,958.00" }
+    },
+    "specifications": {
+      "weight_ratings": { "gvwr": "9,990 lbs - 14,000 lbs" },
+      "tongue": {
+        "tongue_material": "6\" Channel",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (21,000 lbs)",
+        "jack": "1 Side-Wind Spring Loaded Jack (12,000 lbs)",
+        "storage": "Integrated Locking Tongue Box for Pump and Battery"
+      },
+      "chassis": {
+        "main_frame": "6\" Channel",
+        "crossmembers": "3\" Channel @ 16\" Spacing",
+        "fenders": "Removable Diamond Plate Fenders"
+      },
+      "deck": {
+        "deck_width": "83\"",
+        "flooring": "2\" Treated Pine Floor",
+        "deck_type": "Gravity Tilt or Powered Hydraulic Actuated Cylinder Tilt Deck"
+      },
+      "running_gear": {
+        "axles": "2 - 5.2k or 7k Electric Brake EZ Lube Axles",
+        "suspension": "Torsion or Slipper Spring Upgrades"
+      },
+      "electrical_and_lighting": { "lights": "DOT Approved Tecniq LED Lights" }
+    },
+    "options": {
+      "tilt_system_and_power": {
+        "509-005": { "option": "Wireless Remote Control System for Powered Hydraulic Tilt Cylinder", "price": "$545.00" },
+        "CEZ-105": { "option": "12K True Hydraulic Support Landing Gear Jack", "price": "$735.00" },
+        "505-001": { "option": "Solar Panel Battery Trickle Charger (7.5 Watt Configuration)", "price": "$370.00" }
+      },
+      "deck_and_chassis": {
+        "CEZ-501": { "option": "Blackwood Premium Interlocking Wood-Rubber Lumber Deck Floor", "price": "$45.00 per linear foot" },
+        "CEZ-506": { "option": "Steel Diamond Plate Running Floor Infiltration Plate", "price": "$65.00 per linear foot" },
+        "CEZ-512": { "option": "Front Mounted Removable Heavy Duty Winch Plate Assembly Bracket", "price": "$125.00" }
+      },
+      "running_gear": {
+        "501-022": { "option": "5.2K System Spare Radial Mount Option: 15\" 10 Ply", "price": "$145.00" },
+        "501-005": { "option": "7K System Spare Radial Mount Option: 16\" 10 Ply", "price": "$140.00" }
+      },
+      "finish": {
+        "CEZ-801": { "option": "Zinc Primer Premium Moisture Protective Primer Undercoat", "price": "$525.00" }
+      }
+    }
+  }
+]

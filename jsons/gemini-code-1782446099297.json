@@ -1,0 +1,316 @@
+[
+  {
+    "id": "LZ7",
+    "category": "Dump Trailer",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Light Weight Horizon 7 FT Wide Dump Trailer (LZ7)",
+    "models_and_prices": {
+      "LZ7 12' x 83\" BP DUMP TRAILER 10K": {
+        "price": "$7,355.00",
+        "msrp": "$9,561.50"
+      },
+      "LZ7 14' x 83\" BP DUMP TRAILER 10K": {
+        "price": "$7,580.00",
+        "msrp": "$9,854.00"
+      },
+      "LZ7 12' x 83\" BP DUMP TRAILER 12K": {
+        "price": "$7,650.00",
+        "msrp": "$9,945.00"
+      },
+      "LZ7 14' x 83\" BP DUMP TRAILER 12K": {
+        "price": "$7,880.00",
+        "msrp": "$10,244.00"
+      }
+    },
+    "specifications": {
+      "weight_ratings": {
+        "gvwr": "9,990 lbs (10K Models) / 12,000 lbs (12K Models)"
+      },
+      "tongue": {
+        "frame": "8\" I-Beam (10 lbs/ft)",
+        "toolbox": "Lockable Toolbox Houses Battery & Pump",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (17,000 lbs)",
+        "jack": "1 Side Wind Drop Jack Leg (7,000 lbs)",
+        "safety_chains": "1/4\" Grade 70 Safety Chain w/Clevis Hook (2 each)"
+      },
+      "chassis": {
+        "main_frame": "8\" I-Beam (10 lbs/ft)"
+      },
+      "dump": {
+        "bed_width": "83\"",
+        "top_rail_width": "83\"",
+        "flooring": "10ga. Steel Bed",
+        "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+        "d_rings": "4 D-Rings Welded Inside Box",
+        "sides": "2' High, 12ga Rounded Steel",
+        "gate": "3 Way Door - Spreader Gate",
+        "ramps": "Ramp Pockets w/ 5' Long Slide In 3\" Channel Ramps (4,000 lbs wheel rating each only over area of 12\" or more)",
+        "spare": "Weld On Spare Tire Mount",
+        "tarp": "Manual Tarp Kit"
+      },
+      "lift_system": {
+        "hoist": "5\"x16\" Single Push Cylinder Hoist (15,000 lbs)",
+        "pump": "KTI 12V Hydraulic Pump, 2 Button Hydraulic - Power Up/Power Down"
+      },
+      "running_gear": {
+        "tires": "ST225/75R15 10 Ply Tires (2,830 lbs) [10K] / ST235/80R16 10 Ply Tires (3,520 lbs) [12K]",
+        "rims": "15\" Black Mod Wheels [10K] / 16\" Black Mod Wheels [12K]",
+        "axles": "2-5.2k Electric Brake EZ Lube Spring Axles [10K] / 2-6k Electric Brake EZ Lube Spring Axles [12K]",
+        "suspension": "Slipper Spring"
+      },
+      "electrical_and_lighting": {
+        "battery": "1-Interstate 27 Deep Cycle Battery",
+        "lights": "DOT Approved Tecniq LED Lights"
+      },
+      "finish": {
+        "paint": "6 Stage Powdercoat"
+      }
+    },
+    "options": {
+      "tongue": {
+        "LZ7-201": {
+          "option": "Gooseneck Upgrade with 8\" I-Beam Neck & Dual 12k Drop Leg Jacks",
+          "price": "$1,315.00"
+        },
+        "LZ7-205": {
+          "option": "Gooseneck Dual 12k Hydraulic Jacks Upgrade",
+          "price": "$1,415.00"
+        },
+        "LZ7-101": {
+          "option": "Bumper Pull Single 12k Drop Leg Jack Leg Upgrade",
+          "price": "$145.00"
+        },
+        "LZ7-105": {
+          "option": "Bumper Pull Single 12k Hydraulic Jack Upgrade",
+          "price": "$735.00"
+        }
+      },
+      "dump": {
+        "LZ7-518": {
+          "option": "3' High Sides (10ga.)",
+          "price": "$42.00 per linear foot"
+        },
+        "LZ7-519": {
+          "option": "4' High Sides (10ga.)",
+          "price": "$80.00 per linear foot"
+        },
+        "506-013": {
+          "option": "8\" Extensions Boards",
+          "price": "$13.00 per linear foot"
+        },
+        "LZ7-507": {
+          "option": "8\" Integrated Wood Extension Brackets",
+          "price": "$85.00"
+        },
+        "LZ7-505": {
+          "option": "Pair Of Rear Stabilizer Stands",
+          "price": "$125.00"
+        }
+      },
+      "lift_system": {
+        "509-005": {
+          "option": "Tuff Wireless 2 Button Remote (Hoist or Telescopic)",
+          "price": "$545.00"
+        },
+        "LZ7-515": {
+          "option": "Telescopic Cylinder 12' Dump Upgrade",
+          "price": "$475.00"
+        },
+        "LZ7-516": {
+          "option": "Telescopic Cylinder 14' Dump Upgrade",
+          "price": "$475.00"
+        }
+      },
+      "running_gear": {
+        "501-022": {
+          "option": "5.2K AXLE SPARE TIRE OPTION: ST225/75R15 10 Ply Tire (2,830 lbs)",
+          "price": "$145.00"
+        },
+        "501-005": {
+          "option": "6K AXLE SPARE TIRE OPTION: ST235/80R16 10 Ply Tire Single (3,520 lbs)",
+          "price": "$140.00"
+        }
+      },
+      "electrical_and_lighting": {
+        "505-001": {
+          "option": "7.5 Watt Solar Panel",
+          "price": "$370.00"
+        }
+      },
+      "finish": {
+        "LZ7-803": {
+          "option": "2-Tone Colors Chassis / Dump - Deck",
+          "price": "$250.00"
+        },
+        "LZ7-801": {
+          "option": "Zinc Primer Undercoat",
+          "price": "$525.00"
+        }
+      }
+    }
+  },
+  {
+    "id": "HZ7",
+    "category": "Dump Trailer",
+    "type": "Bumper Pull / Gooseneck",
+    "name": "Horizon 7 FT Wide Dump Trailer (HZ7)",
+    "models_and_prices": {
+      "HZ7 12' x 83\" BP DUMP TRAILER 14K": {
+        "price": "$8,655.00",
+        "msrp": "$11,251.50"
+      },
+      "HZ7 14' x 83\" BP DUMP TRAILER 14K": {
+        "price": "$8,885.00",
+        "msrp": "$11,550.50"
+      },
+      "HZ7 16' x 83\" BP DUMP TRAILER 14K": {
+        "price": "$9,365.00",
+        "msrp": "$12,174.50"
+      }
+    },
+    "specifications": {
+      "weight_ratings": {
+        "gvwr": "14,000 lbs"
+      },
+      "tongue": {
+        "frame": "Neckboss 8\" Tapered Engineered I-Beam",
+        "toolbox": "Mega Lockable Toolbox Houses Battery & Pump (w/ Extra Storage)",
+        "coupler": "Adjustable Auto Latch 2-5/16\" BP Coupler (17,000 lbs)",
+        "jack": "1 Side Wind Spring Loaded Drop Jack Leg (12,000 lbs)",
+        "safety_chains": "3/8\" Grade 70 Safety Chain w/Clevis Hook (2 each)",
+        "spare": "Weld On Spare Tire Mount"
+      },
+      "chassis": {
+        "main_frame": "8\" I-Beam (13 lbs/ft)"
+      },
+      "dump": {
+        "bed_width": "83\"",
+        "top_rail_width": "83\"",
+        "flooring": "7ga. Steel Bed",
+        "frame": "2\" x 5\" x 11ga. Tubing",
+        "crossmembers": "3\" Channel (3.50 lbs/ft) 16\" Spacing",
+        "d_rings": "4 D-Rings Welded Inside Box",
+        "sides": "2' High, 10ga Rounded Steel",
+        "gate": "3 Way Door - Spreader Gate",
+        "ramps": "Ramp Pockets w/ 6' Long Slide In 3\" Channel Ramps (4,000 lbs wheel rating each only over area of 12\" or more)",
+        "tarp": "Manual Tarp Kit"
+      },
+      "lift_system": {
+        "hoist_12_14": "5\"x16\" Single Push Cylinder Hoist (15,000 lbs)",
+        "hoist_16": "5\"x21\" Single Push Cylinder Hoist (15,000 lbs)",
+        "pump": "KTI 12V Hydraulic Pump, 2 Button Hydraulic - Power Up/Power Down"
+      },
+      "running_gear": {
+        "tires": "ST235/80R16 10 Ply Tires Single (3,520 lbs)",
+        "rims": "16\" Black Mod Wheels",
+        "axles": "2-7k Electric Brake EZ Lube Spring Axles",
+        "suspension": "Slipper Spring"
+      },
+      "electrical_and_lighting": {
+        "battery": "1-Interstate 27 Deep Cycle Battery",
+        "lights": "DOT Approved Tecniq LED Lights"
+      },
+      "finish": {
+        "paint": "6 Stage Powdercoat"
+      }
+    },
+    "options": {
+      "tongue": {
+        "HZ7-201": {
+          "option": "Gooseneck Upgrade with 10\" I-Beam Neck & Dual 12k Drop Leg Jacks",
+          "price": "$1,315.00"
+        },
+        "HZ7-205": {
+          "option": "Gooseneck Dual 12k Hydraulic Jacks Upgrade",
+          "price": "$1,415.00"
+        },
+        "HZ7-105": {
+          "option": "Bumper Pull Single 12k Hydraulic Jack Upgrade",
+          "price": "$735.00"
+        },
+        "HZ7-204": {
+          "option": "Gooseneck Dual 2-Speed 12k Jacks Upgrade",
+          "price": "$430.00"
+        }
+      },
+      "dump": {
+        "HZ7-518": {
+          "option": "3' High Sides (7ga.)",
+          "price": "$53.00 per linear foot"
+        },
+        "HZ7-519": {
+          "option": "4' High Sides (7ga.)",
+          "price": "$95.00 per linear foot"
+        },
+        "506-013": {
+          "option": "8\" Extensions Boards",
+          "price": "$13.00 per linear foot"
+        },
+        "HZ7-507": {
+          "option": "8\" Integrated Wood Extension Brackets",
+          "price": "$85.00"
+        },
+        "HZ7-505": {
+          "option": "Pair Of Rear Stabilizer Stands",
+          "price": "$125.00"
+        },
+        "HZ7-506": {
+          "option": "12\" On Center Crossmembers",
+          "price": "$185.00"
+        }
+      },
+      "lift_system": {
+        "509-005": {
+          "option": "Tuff Wireless 2 Button Remote (Hoist or Telescopic)",
+          "price": "$545.00"
+        },
+        "HZ7-515": {
+          "option": "Telescopic Cylinder 12' Dump Upgrade",
+          "price": "$475.00"
+        },
+        "HZ7-516": {
+          "option": "Telescopic Cylinder 14' Dump Upgrade",
+          "price": "$475.00"
+        },
+        "HZ7-517": {
+          "option": "Telescopic Cylinder 16' Dump Upgrade",
+          "price": "$475.00"
+        }
+      },
+      "running_gear": {
+        "501-004": {
+          "option": "7K AXLE TIRE UPGRADE OPTION: ST235/85R16 14 Ply Tires Singles (4,400 lbs)",
+          "price": "$170.00"
+        },
+        "501-005": {
+          "option": "7K AXLE SPARE TIRE OPTIONS: ST235/80R16 10 Ply Tire Single (3,520 lbs)",
+          "price": "$140.00"
+        },
+        "501-006": {
+          "option": "7K AXLE SPARE TIRE OPTIONS: ST235/85R16 14 Ply Tire Single (4,400 lbs)",
+          "price": "$185.00"
+        },
+        "HZ7-A03": {
+          "option": "16K TRIDEM AXLE UPGRADE OPTION (21,000 lbs GVWR): 3-7k Electric Brake EZ Lube Spring Axles (Only Available for 14' and 16' Models)",
+          "price": "$1,785.00"
+        }
+      },
+      "electrical_and_lighting": {
+        "505-001": {
+          "option": "7.5 Watt Solar Panel",
+          "price": "$370.00"
+        }
+      },
+      "finish": {
+        "HZ7-803": {
+          "option": "2-Tone Colors Chassis / Dump - Deck",
+          "price": "$250.00"
+        },
+        "HZ7-801": {
+          "option": "Zinc Primer Undercoat",
+          "price": "$630.00"
+        }
+      }
+    }
+  }
+]
